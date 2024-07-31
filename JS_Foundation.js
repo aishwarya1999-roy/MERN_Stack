@@ -50,3 +50,5 @@ console.log(Number(score2)) //NaN - not a number
 //"33abs" => NaN
 //true => 1, false => 0
 
+let aa = 1
+console.log(Boolean(aa));
