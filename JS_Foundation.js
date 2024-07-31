@@ -27,5 +27,7 @@ let islogginin = false //boolean
 // symbol = unique
 // object
 
-console.log(typeof null)
+console.log(typeof null) //get the type of the variable 
 
+
+/* Datatype conversion */
