@@ -52,6 +52,7 @@ const heros = ["iron", "hjii", 'idji']
     age: 23
 }
 
+console.log(heros);
 
 
 
