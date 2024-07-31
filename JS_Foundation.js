@@ -147,3 +147,4 @@ let user_one = {
     upi : "dhu@oksbi"
 }
 
+let user_two = user_one
