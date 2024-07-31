@@ -48,8 +48,8 @@ console.log(typeof null) //get the type of the variable
 
 const heros = ["iron", "hjii", 'idji'] //array
 let myobj = {             // object
-    "name" : "Aishw",
-    "age" : 23,
+    name : "Aishw",
+    age: 23,
 }
 console.log(heros);
 console.log(myobj);
