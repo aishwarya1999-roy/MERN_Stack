@@ -13,8 +13,7 @@ console.log(EmpID, EmpMail, contact, city)
 console.table([EmpID, EmpMail, contact, city, account_state])
 */
 
-// ---------------- Datatype -------------------
-
+//console.log("************ Datatype *****************")
 
 "use strict"; //treat all JS code as newer version - as of now it takes it default
 
@@ -92,7 +91,6 @@ console.log(typeof String(strw));
 // console.log("************ Operations *****************")
 
 /* 
-
 let val = 3
 let negva = -val
 //console.log(negva);
@@ -124,8 +122,6 @@ console.log(gamecounter);
 
 // console.log("************ Datatype Comparison *****************")
 /*
-
-
 console.log(2>1)
 console.log(2>=1)
 console.log("2">1)
