@@ -137,3 +137,4 @@ console.log("2"=== 2) // === will check condition as well as the datatype
 
 // Stack (used for primitive type - number, string, boolean etc) & Heap (used for non primitive type - functions/array/objects)
 
+
