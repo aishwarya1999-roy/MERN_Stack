@@ -22,7 +22,10 @@ let age = 25 //number 2 to the power 53
 let islogginin = false //boolean
 
 // bigint - bigger than number
-// null = standalone value
+// null = standalone value / blank / empty
 // undefinded = value not defined 
+// symbol = unique
+// object
 
+console.log(typeof "Aish ")
 
