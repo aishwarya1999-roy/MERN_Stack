@@ -148,4 +148,4 @@ let user_one = {
 }
 
 let user_two = user_one
-console.log(user_one);
+console.(user_one);
