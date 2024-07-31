@@ -11,7 +11,7 @@ let account_state; //undefined value stored here as no value passed
 
 //Prefer not to use var as there are issue with block scope & funcational scope
 console.log(EmpID, EmpMail, contact, city)
-console.table([EmpID, EmpMail, contact, city, account_state])
+console.table([EmpID, EmpMail, contact, city, account_state]) //console.table() is used to show everything as a table format
 */
 
 //console.log("************ Datatype *****************")
