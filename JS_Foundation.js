@@ -54,7 +54,7 @@ let myobj = {             // object
 console.log(heros);
 console.log(myobj);
 
-function(){
+const myfunction = function(){
     console.log("hello")
 }
 
