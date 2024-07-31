@@ -37,10 +37,10 @@ console.log(typeof null) //get the type of the variable
 
 let score = "33"
 
-console.log(typeof score)
-console.log(typeof(score))
-
-let score2 = "33an"
+//console.log(typeof score)
+//console.log(typeof(score))
 let valueinNumber = Number(score)
 console.log(typeof valueinNumber)
 console.log(typeof Number(score))
+
+let score2 = "33an"
