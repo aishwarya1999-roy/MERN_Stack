@@ -38,3 +38,4 @@ console.log(typeof null) //get the type of the variable
 let score = 33
 
 console.log(typeof score)
+console.log(typeof(score))
