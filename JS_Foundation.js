@@ -56,7 +56,7 @@ console.log(myobj);
 
 const myfunction = function(){
     console.log("hello")
-    return 12
+    return Aishwarya
 }
 
 console.log(myfunction())
