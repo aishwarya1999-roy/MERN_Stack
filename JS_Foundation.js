@@ -43,5 +43,5 @@ let score = "33"
 //console.log(typeof valueinNumber)
 //console.log(typeof Number(score))
 
-let score2 = Null
+let score2 = null
 console.log(Number(score2)) //NaN - not a number
