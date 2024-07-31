@@ -1,4 +1,4 @@
-console.log("~~ Hey there, This is all about JS foundation ~~") //print
+console.log("~~ Hey there, This is all about JS foundation ~~") //console.log() is to print anything
 
 //console.log("************ console.log(), const, var, let *****************")
 
