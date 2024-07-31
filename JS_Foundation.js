@@ -58,7 +58,7 @@ const myfunction = function(){
     console.log("hello")
 }
 
-console.log(function())
+console.log(myfunction())
 
 
 // ------------- Datatype conversion  ----------------
