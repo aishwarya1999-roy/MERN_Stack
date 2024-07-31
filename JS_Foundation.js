@@ -57,4 +57,4 @@ let strw = 54
 console.log(typeof String(strw));
 */
 
-
+// ------------- Datatype conversion  ----------------
