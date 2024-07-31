@@ -44,4 +44,4 @@ let score = "33"
 //console.log(typeof Number(score))
 
 let score2 = "33an"
-console.log(score2)
+console.log(Number(score2))
