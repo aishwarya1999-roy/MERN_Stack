@@ -54,6 +54,9 @@ let myobj = {             // object
 console.log(heros);
 console.log(myobj);
 
+function(){
+    console.log("hello")
+}
 
 
 // ------------- Datatype conversion  ----------------
