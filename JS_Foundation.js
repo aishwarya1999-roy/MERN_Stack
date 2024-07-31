@@ -15,9 +15,21 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 
 // ---------------- Datatype -------------------
 
+
 "use strict"; //treat all JS code as newer version - as of now it takes it default
 
 //alert("Hello") // works on browser
+
+// Primitve & Non primitive data type
+
+// Primitive - 7type : string, number, boolean, null, undefined, symbol, bigint
+
+// Refernce Type/ Non premitive - 
+//Array, objects, Functions
+
+const id = Symbol('123')
+const anoid = Symbol('123')
+
 
 /* 
 let name = "Aish" //string
