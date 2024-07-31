@@ -67,6 +67,8 @@ console.log(myfunction())
 
 // ------------- Datatype conversion  ----------------
 /* 
+
+console.log("************ Datatype conversion *****************")
 let score = "33"
 
 console.log(typeof score)
