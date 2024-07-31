@@ -52,7 +52,7 @@ let myobj = {
     age: 23,
 }
 
-console.log(name);
+console.log(myobj);
 
 
 
