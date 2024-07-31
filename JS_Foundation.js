@@ -39,8 +39,8 @@ let score = "33"
 
 //console.log(typeof score)
 //console.log(typeof(score))
-let valueinNumber = Number(score)
-console.log(typeof valueinNumber)
-console.log(typeof Number(score))
+//let valueinNumber = Number(score)
+//console.log(typeof valueinNumber)
+//console.log(typeof Number(score))
 
 let score2 = "33an"
