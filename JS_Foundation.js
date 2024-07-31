@@ -65,10 +65,8 @@ const myfunction = function(){
 console.log(myfunction())
 
 
-// ------------- Datatype conversion  ----------------
+//console.log("************ Datatype conversion *****************")
 /* 
-
-console.log("************ Datatype conversion *****************")
 let score = "33"
 
 console.log(typeof score)
@@ -91,10 +89,10 @@ let strw = 54
 console.log(typeof String(strw));
 */
 
-// ------------- Operations  ----------------
+// console.log("************ Operations *****************")
 
 /* 
-console.log("************ Operations *****************")
+
 let val = 3
 let negva = -val
 //console.log(negva);
