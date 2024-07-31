@@ -1,4 +1,4 @@
-console.log("~~ Hey there, This is all about JS foundation ~~") //console.log() is to print anything
+console.log("~~ Hey there, This is all about JS foundation ~~")
 
 //console.log("************ console.log(), const, var, let *****************")
 
@@ -10,7 +10,7 @@ city = "Kolkata" //variable declaration - we can declare without let/var but it 
 let account_state; //undefined value stored here as no value passed
 
 //Prefer not to use var as there are issue with block scope & funcational scope
-console.log(EmpID, EmpMail, contact, city)
+console.log(EmpID, EmpMail, contact, city)  //console.log() is to print anything
 console.table([EmpID, EmpMail, contact, city, account_state]) //console.table() is used to show everything as a table format
 */
 
