@@ -78,3 +78,4 @@ let str2 = " Aish"
 console.log("1" + 2);
 console.log(1 + "2");
 console.log(1 + 2);
+console.log("1" + 2 + 2);
