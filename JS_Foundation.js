@@ -30,7 +30,7 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 const id = Symbol('123')
 const anoid = Symbol('123')
 
-console.log(anoid);
+console.log(id == anoid);
 
 
 
