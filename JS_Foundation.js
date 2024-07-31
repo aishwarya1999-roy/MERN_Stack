@@ -142,5 +142,8 @@ let anothername = ytname
 anothername = "Adwe"
 console.log(ytname);
 console.log(anothername);
-
+let user = {
+    email : "ajhd@gmail.com"
+    upi : "dhu@oksbi"
+}
 
