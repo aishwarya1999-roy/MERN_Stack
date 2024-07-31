@@ -92,7 +92,6 @@ console.log(typeof String(strw));
 // ------------- Operations  ----------------
 
 /* 
-
 console.log("************ Operations *****************")
 let val = 3
 let negva = -val
@@ -116,7 +115,7 @@ console.log(1 + 2 + "2"); // before adding a string if we put a number it will c
 
 
 let gamecounter = 100
-gamecounter++ //postfix
+gamecounter++ //postfix - increament after
 ++gamecounter //prefix - increament before 
 
 console.log(gamecounter);
