@@ -61,7 +61,6 @@ const myfunction = function(){
     console.log("hello")
     return "Aishwarya"
 }
-
 console.log(myfunction())
 
 
