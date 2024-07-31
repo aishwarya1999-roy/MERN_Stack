@@ -58,3 +58,6 @@ console.log(typeof String(strw));
 */
 
 // ------------- Datatype conversion  ----------------
+
+let val = 3
+let negva = -val
