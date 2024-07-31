@@ -79,4 +79,4 @@ console.log("1" + 2);
 console.log(1 + "2");
 console.log(1 + 2);
 console.log("1" + 2 + 2); // after adding a string if we put a number still it behave like string
-console.log(1 + 2 + "2");
+console.log(1 + 2 + "2"); // before adding a string if we put a number it will calculate the number then concat to the string
