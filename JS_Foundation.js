@@ -47,6 +47,6 @@ let score2 = "33an"
 console.log(Number(score2)) //NaN - not a number
 
 //"33" => 33
-// "33abs" => NaN
+//"33abs" => NaN
 //true => 1, false => 0
 
