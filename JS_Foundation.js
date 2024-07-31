@@ -53,7 +53,7 @@ let myobj = {
     my_age: 23,
 }
 console.log(myobj);
-*/
+
 
 // function creaton
 const myfunction = function(){
@@ -62,7 +62,7 @@ const myfunction = function(){
 }
 console.log(myfunction())
 
-
+*/
 //console.log("************ Datatype conversion *****************")
 /* 
 let score = "33"
