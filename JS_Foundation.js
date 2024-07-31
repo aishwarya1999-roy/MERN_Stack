@@ -117,7 +117,6 @@ console.log(1 + 2 + "2"); // before adding a string if we put a number it will c
 let gamecounter = 100
 gamecounter++ //postfix - increament after
 ++gamecounter //prefix - increament before 
-
 console.log(gamecounter);
 
 */
