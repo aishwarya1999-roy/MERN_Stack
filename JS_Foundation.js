@@ -90,4 +90,6 @@ console.log(gamecounter);
 */
 
 
-// ------------- Comparison  ----------------
+// ------------- Datatype Comparison  ----------------
+
+console.log(2>1)
