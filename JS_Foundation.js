@@ -43,8 +43,8 @@ const bignum = 41656598456n //bigint declarion
 
 console.log(typeof null) //get the type of the variable 
 
-
-const heros = ["iron", "hjii", 'idji'] //array creation
+ //array creation
+const heros = ["iron", "hjii", 'idji']
 console.log(heros);
 
 // object creation
