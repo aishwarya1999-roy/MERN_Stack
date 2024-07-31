@@ -56,7 +56,7 @@ let myobj = {
 }
 console.log(myobj);
 
-// function craton
+// function creaton
 const myfunction = function(){
     console.log("hello")
     return "Aishwarya"
