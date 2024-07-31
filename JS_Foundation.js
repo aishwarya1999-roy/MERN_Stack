@@ -19,6 +19,7 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 
 //alert("Hello") // works on browser
 
+/* 
 let name = "Aish" //string
 let age = 25 //number 2 to the power 53
 let islogginin = false //boolean
@@ -28,7 +29,7 @@ let islogginin = false //boolean
 // undefinded = value not defined 
 // symbol = unique
 // object
-
+*/
 console.log(typeof null) //get the type of the variable 
 
 
