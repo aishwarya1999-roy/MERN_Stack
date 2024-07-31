@@ -52,3 +52,6 @@ console.log(Number(score2)) //NaN - not a number
 
 let aa = 1
 console.log(Boolean(aa));
+
+let strw = 54
+console.log(String(strw));
