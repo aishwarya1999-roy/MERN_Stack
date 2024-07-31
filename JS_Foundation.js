@@ -1,6 +1,6 @@
 console.log("~~ Hey there, This is all about JS foundation ~~") //print
 
-// --------------- console.log(), const, var, let ----------------
+//console.log("************ console.log(), const, var, let *****************")
 
 /*
 const EmpID = 40 //constant declaration, can't change the value
@@ -24,8 +24,7 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 // Refernce Type/ Non premitive - 
 //Array, objects, Functions
 
-/* 
-
+/*
 let name = "Aish" //string declarion
 let age = 25 //number declarion, number range = 2 to the power 53
 let islogginin = false //boolean declarion
