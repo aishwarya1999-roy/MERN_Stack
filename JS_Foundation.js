@@ -81,3 +81,7 @@ console.log("1" + 2 + 2); // after adding a string if we put a number still it b
 console.log(1 + 2 + "2"); // before adding a string if we put a number it will calculate the number then concat to the string
 */
 
+let gamecounter = 100
+gamecounter++
+
+console.log(gamecounter);
