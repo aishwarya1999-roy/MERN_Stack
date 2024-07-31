@@ -46,14 +46,17 @@ let islogginin = false //boolean
 console.log(typeof null) //get the type of the variable 
 */
 
-const heros = ["iron", "hjii", 'idji'] //array
-let myobj = {             // object
+const heros = ["iron", "hjii", 'idji'] //array creation
+console.log(heros);
+
+// object creation
+let myobj = {             
     name : "Aishw",
     age: 23,
 }
-console.log(heros);
 console.log(myobj);
 
+// function craton
 const myfunction = function(){
     console.log("hello")
     return "Aishwarya"
