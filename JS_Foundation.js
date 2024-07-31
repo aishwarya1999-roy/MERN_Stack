@@ -30,7 +30,7 @@ const anoid = Symbol('123')
 console.log(id === anoid); //false 
 const bignum = 41656598456n //bigint declarion
 let name = "Aish" //string declarion
-let age = 25 //number 2 to the power 53
+let age = 25 //number declarion, number range = 2 to the power 53
 let islogginin = false //boolean
 
 // bigint - bigger than number
