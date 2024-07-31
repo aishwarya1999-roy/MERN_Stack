@@ -26,18 +26,13 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 
 // Refernce Type/ Non premitive - 
 //Array, objects, Functions
-
+/* 
 const id = Symbol('123')
 const anoid = Symbol('123')
 
 console.log(id === anoid); //false
-
 const bignum = 41656598456n //bigint 
 
-
-
-
-/* 
 let name = "Aish" //string
 let age = 25 //number 2 to the power 53
 let islogginin = false //boolean
@@ -50,6 +45,12 @@ let islogginin = false //boolean
 
 console.log(typeof null) //get the type of the variable 
 */
+
+const heros = ["iron", "hjii", 'idji']
+
+
+
+
 
 // ------------- Datatype conversion  ----------------
 /* 
