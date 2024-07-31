@@ -27,5 +27,5 @@ let islogginin = false //boolean
 // symbol = unique
 // object
 
-console.log(typeof "Aish ")
+console.log(typeof age)
 
