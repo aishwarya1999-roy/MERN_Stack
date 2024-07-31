@@ -160,3 +160,5 @@ console.log(user_one);
 console.log(user_two);
 // here email value will change for user one & user two both
  */
+
+// console.log("************ Memory - Stack/Heap *****************")
