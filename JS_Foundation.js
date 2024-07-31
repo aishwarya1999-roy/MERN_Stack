@@ -27,8 +27,8 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 /* 
 const id = Symbol('123')
 const anoid = Symbol('123')
-console.log(id === anoid); //false
-const bignum = 41656598456n //bigint 
+console.log(id === anoid); //false 
+const bignum = 41656598456n //bigint declarion
 let name = "Aish" //string declarion
 let age = 25 //number 2 to the power 53
 let islogginin = false //boolean
