@@ -20,19 +20,16 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 //alert("Hello") // works on browser
 
 // Primitve & Non primitive data type
-
 // Primitive - 7type : string, number, boolean, null, undefined, symbol, bigint
-
 // Refernce Type/ Non premitive - 
 //Array, objects, Functions
+
 /* 
 const id = Symbol('123')
 const anoid = Symbol('123')
-
 console.log(id === anoid); //false
 const bignum = 41656598456n //bigint 
-
-let name = "Aish" //string
+let name = "Aish" //string declarion
 let age = 25 //number 2 to the power 53
 let islogginin = false //boolean
 
