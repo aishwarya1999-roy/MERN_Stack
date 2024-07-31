@@ -26,7 +26,7 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 
 /* 
 
-let first_name = "Aish" //string declarion
+let name = "Aish" //string declarion
 let age = 25 //number declarion, number range = 2 to the power 53
 let islogginin = false //boolean declarion
 
@@ -49,8 +49,8 @@ console.log(heros);
 
 // object creation
 let myobj = {             
-    name : "Aishw",
-    age: 23,
+    first_name : "Aishw",
+    my_age: 23,
 }
 console.log(myobj);
 */
