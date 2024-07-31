@@ -47,7 +47,10 @@ console.log(typeof null) //get the type of the variable
 */
 
 const heros = ["iron", "hjii", 'idji']
-
+{
+    name : "Aishw"
+    age: 23
+}
 
 
 
