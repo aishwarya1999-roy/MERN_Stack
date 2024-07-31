@@ -132,7 +132,7 @@ console.log("2"=== 2) // === will check condition as well as the datatype
  */
 
 
-// console.log("************ Memory *****************")
+// console.log("************ Memory - Stack/Heap *****************")
 
 
 // Stack (used for primitive type - number, string, boolean etc) & Heap (used for non primitive type - functions/array/objects)
