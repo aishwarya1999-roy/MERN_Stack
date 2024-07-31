@@ -58,6 +58,8 @@ function(){
     console.log("hello")
 }
 
+console.log(function())
+
 
 // ------------- Datatype conversion  ----------------
 /* 
