@@ -44,7 +44,7 @@ let islogginin = false //boolean
 // object
 
 console.log(typeof null) //get the type of the variable 
-*/
+
 
 const heros = ["iron", "hjii", 'idji'] //array creation
 console.log(heros);
@@ -55,6 +55,7 @@ let myobj = {
     age: 23,
 }
 console.log(myobj);
+*/
 
 // function creaton
 const myfunction = function(){
