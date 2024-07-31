@@ -1,6 +1,6 @@
 console.log("~~ Hey there, This is all about JS foundation ~~") //print
 
-/* console.log(), const, var, let */
+// --------------- console.log(), const, var, let ----------------
 
 /*
 const EmpID = 40 //constant declaration, can't change the value
@@ -13,7 +13,7 @@ console.log(EmpID, EmpMail, contact, city)
 console.table([EmpID, EmpMail, contact, city, account_state])
 */
 
-/* Datatype */
+// ---------------- Datatype -------------------
 
 "use strict"; //treat all JS code as newer version - as of now it takes it default
 
@@ -33,7 +33,7 @@ let islogginin = false //boolean
 console.log(typeof null) //get the type of the variable 
 */
 
-/* Datatype conversion */
+// ------------- Datatype conversion  ----------------
 /* 
 let score = "33"
 
