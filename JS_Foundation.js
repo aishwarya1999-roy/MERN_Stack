@@ -26,7 +26,7 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 
 /* 
 
-let name = "Aish" //string declarion
+let first_name = "Aish" //string declarion
 let age = 25 //number declarion, number range = 2 to the power 53
 let islogginin = false //boolean declarion
 
