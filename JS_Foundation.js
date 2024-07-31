@@ -148,4 +148,4 @@ let user_one = {
 }
 
 let user_two = user_one
-console.(user_one);
+console.table(user_one);
