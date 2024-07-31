@@ -30,7 +30,10 @@ console.table([EmpID, EmpMail, contact, city, account_state])
 const id = Symbol('123')
 const anoid = Symbol('123')
 
-console.log(id === anoid);
+console.log(id === anoid); //false
+
+const bignum = 41656598456n //bigint 
+
 
 
 
