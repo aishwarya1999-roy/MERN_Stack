@@ -142,6 +142,8 @@ let anothername = ytname
 anothername = "Adwe"
 console.log(ytname);
 console.log(anothername);
+
+
 let user_one = {
     email : "ajhd@gmail.com",
     upi : "dhu@oksbi"
@@ -149,7 +151,9 @@ let user_one = {
 
 let user_two = user_one
 console.log(user_two);
+
 user_two.email = "aish@gmail.com"
 
 console.log(user_one);
 console.log(user_two);
+// here email value will change for user one & user two both
