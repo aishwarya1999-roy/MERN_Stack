@@ -56,9 +56,10 @@ console.log(myobj);
 
 const myfunction = function(){
     console.log("hello")
+    return 12
 }
 
-myfunction()
+console.log(myfunction())
 
 
 // ------------- Datatype conversion  ----------------
