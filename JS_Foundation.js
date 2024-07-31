@@ -63,4 +63,4 @@ let val = 3
 let negva = -val
 console.log(negva);
 
-console.log()
+console.log(2+2)
