@@ -31,7 +31,7 @@ let islogginin = false //boolean declarion
 
 //symbol = unique
 const id = Symbol('123')
-const anoid = Symbol('123')
+const another_id = Symbol('123')
 console.log(id === anoid); //false 
 
 // bigint - bigger than number
