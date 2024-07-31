@@ -140,4 +140,6 @@ console.log("2"=== 2) // === will check condition as well as the datatype
 let ytname = "Aishwarya"
 let anpthername = ytname
 
+console.log(anpthername);
+
 
