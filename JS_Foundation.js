@@ -4,7 +4,7 @@ console.log("~~ Hey there, This is all about JS foundation ~~") //print
 
 /*
 const EmpID = 40 //constant declaration, can't change the value
-let EmpMail = "aish@gmail.com" //variable declaration - scope in var
+let EmpMail = "abc@gmail.com" //variable declaration - scope in var
 var contact = 123456 //variable declaration - no scope in var - never use var
 city = "Kolkata" //variable declaration - we can declare without let/var but it is not recomemded. 
 let account_state;
