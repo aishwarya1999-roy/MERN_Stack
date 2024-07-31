@@ -88,3 +88,6 @@ gamecounter++ //postfix
 console.log(gamecounter);
 
 */
+
+
+// ------------- Operations  ----------------
