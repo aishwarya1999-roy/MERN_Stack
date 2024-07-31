@@ -124,6 +124,8 @@ console.log(gamecounter);
 
 // ------------- Datatype Comparison  ----------------
 /*
+
+console.log(" ************ Datatype Comparison *****************")
 console.log(2>1)
 console.log(2>=1)
 console.log("2">1)
