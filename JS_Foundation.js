@@ -57,7 +57,7 @@ let strw = 54
 console.log(typeof String(strw));
 */
 
-// ------------- Datatype conversion  ----------------
+// ------------- Operations  ----------------
 
 /* 
 let val = 3
