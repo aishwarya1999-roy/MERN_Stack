@@ -139,7 +139,7 @@ console.log("2"=== 2) // === will check condition as well as the datatype
 
 let ytname = "Aishwarya"
 let anothername = ytname
-
+anothername = "Adwe"
 console.log(anothername);
 
 
