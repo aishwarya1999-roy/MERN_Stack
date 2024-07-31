@@ -33,3 +33,5 @@ console.log(typeof null) //get the type of the variable
 /* Datatype conversion */
 
 let score = 33
+
+console.log(typeof score)
