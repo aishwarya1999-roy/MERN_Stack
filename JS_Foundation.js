@@ -29,9 +29,9 @@ let islogginin = false //boolean
 // undefinded = value not defined 
 // symbol = unique
 // object
-*/
-console.log(typeof null) //get the type of the variable 
 
+console.log(typeof null) //get the type of the variable 
+*/
 
 /* Datatype conversion */
 
