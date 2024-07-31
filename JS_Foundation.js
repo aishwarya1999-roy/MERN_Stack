@@ -61,3 +61,4 @@ console.log(typeof String(strw));
 
 let val = 3
 let negva = -val
+console.log(negva);
