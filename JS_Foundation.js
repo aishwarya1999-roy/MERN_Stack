@@ -90,4 +90,4 @@ console.log(gamecounter);
 */
 
 
-// ------------- Operations  ----------------
+// ------------- Comparison  ----------------
