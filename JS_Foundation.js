@@ -170,3 +170,4 @@ const repcount = 13
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
 const gamename = new String('AIshwarya')
 console.log(gamename[0]);
+console.log(gamename.__proto__);
