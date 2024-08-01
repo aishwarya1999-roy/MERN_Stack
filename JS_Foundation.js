@@ -47,7 +47,7 @@ console.log(typeof null) //get the type of the variable
 const heros = ["iron", "hjii", 'idji']
 console.log(heros);
 
-// object creation
+// object creation = object is like dictionary in python
 let myobj = {             
     first_name : "Aishw",
     my_age: 23,
@@ -163,3 +163,10 @@ console.log(user_two);
 
 // console.log("************ String *****************")
 
+const myname = "aish"
+const repcount = 13
+//console.log(myname + repcount + "dew"); //outdated
+
+//console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
+const gamename = new String('AIshwarya')
+console.log(gamename[0]);
