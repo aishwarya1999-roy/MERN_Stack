@@ -168,7 +168,7 @@ const repcount = 13
 //console.log(myname + repcount + "dew"); //outdated
 
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
-const gamename = new String('AIshwarya')
+const gamename = new String('Aishwarya')
 console.log(gamename[0]);
 console.log(gamename.__proto__);
 console.log(gamename.length);
