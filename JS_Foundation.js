@@ -253,4 +253,4 @@ console.log(Math.ceil(4.6));
 console.log(Math.floor(4.6));
 console.log(Math.sqrt(4));
 console.log(Math.pow(2,4));
-console.log(Math.max(19));
+console.log(Math.max(19, 45, 99, 5));
