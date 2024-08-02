@@ -181,7 +181,7 @@ console.log(user_two);
 const gamename = new String('Aishwarya') //creating string as a object to use as a constructor
  
 // console.log(gamename[0]);
-console.log(gamename);
+console.log(gamename.substring());
 // console.log(gamename.__proto__);
 // console.log(gamename.length);
 // console.log(gamename.toUpperCase());
