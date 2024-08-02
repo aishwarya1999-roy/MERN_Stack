@@ -188,10 +188,10 @@ console.log(gamename.substring());
 // console.log(gamename.charAt(2));
 // console.log(gamename[2]);
 // console.log(gamename.indexOf('s'));
-console.log(gamename.charCodeAt(0)); //return ASCII value
-console.log(gamename.codePointAt(8)); //return ASCII value
-console.log(gamename.endsWith('b'));
-console.log(gamename.includes('a'));
+// console.log(gamename.charCodeAt(0)); //return ASCII value
+// console.log(gamename.codePointAt(8)); //return ASCII value
+// console.log(gamename.endsWith('b'));
+// console.log(gamename.includes('a'));
 console.log(gamename.indexOf('a'));
 
 
