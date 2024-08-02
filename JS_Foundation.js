@@ -178,8 +178,8 @@ console.log(user_two);
 
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
 
-const gamename = new String('  AishwaryA   ') //creating string as a object to use as a constructor
- 
+const gamename = new String('AishwaryA') //creating string as a object to use as a constructor
+const trimstring = "   Aishwarya space   "
 // console.log(gamename[0]);
 console.log(gamename.substring());
 // console.log(gamename.__proto__);
@@ -199,9 +199,9 @@ console.log(gamename.substring());
 // console.log(gamename.repeat(2)); // repeat the string 
 //console.log(gamename.split(',')); //split the string and make array
 
-console.log(gamename.trimEnd());
-console.log(gamename.trimStart());
-
+console.log(gamename.trimEnd()); //trim from end
+console.log(gamename.trimStart()); //trim from front
+console.log(trimstring.trim());
 
 
 /*
