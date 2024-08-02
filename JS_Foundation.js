@@ -228,4 +228,4 @@ console.log(eval(s2)); // returns the string "2 + 2"
 console.log(eval(s2.valueOf())); // returns the number 4
 */
 
-// console.log("************ String *****************")
+// console.log("************ Numbers & maths *****************")
