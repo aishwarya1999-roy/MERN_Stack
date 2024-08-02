@@ -201,9 +201,9 @@ console.log(anotherString);
 //-9 -8 -7 -6 -5 -4 -3 -2 -1 - Slice backward index
 */
 
-// const trimstring = "   Aishwarya space   "
-// console.log(trimstring);
-// console.log(trimstring.trim());
+const trimstring = "   Aishwarya space   "
+console.log(trimstring);
+console.log(trimstring.trim());
 
-// const url = "https://aishwarya.com/aishwarya%20roy"
-// console.log(url.replace('%20','-'));
+const url = "https://aishwarya.com/aishwarya%20roy"
+console.log(url.replace('%20','-'));
