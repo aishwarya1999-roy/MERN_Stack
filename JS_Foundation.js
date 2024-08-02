@@ -252,4 +252,4 @@ console.log(Math.round(4.6));
 console.log(Math.ceil(4.6));
 console.log(Math.floor(4.6));
 console.log(Math.sqrt(4));
-console.log(Math.sq(4));
+console.log(Math.pow(4));
