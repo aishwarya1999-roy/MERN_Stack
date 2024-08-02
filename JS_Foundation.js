@@ -190,7 +190,8 @@ console.log(gamename.substring());
 // console.log(gamename.indexOf('s'));
 console.log(gamename.charCodeAt(0)); //return ASCII value
 console.log(gamename.codePointAt(8)); //return ASCII value
-console.log(gamename.endsWith('b')); //return ASCII value
+console.log(gamename.endsWith('b'));
+console.log(gamename.includes('b'));
 
 
 
