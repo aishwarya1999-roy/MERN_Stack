@@ -194,7 +194,7 @@ console.log(gamename.substring());
 // console.log(gamename.includes('a'));
 // console.log(gamename.lastIndexOf('a')); // return index of last character in case of duplicate character
 // console.log(gamename.repeat(2)); // repeat the string 
-console.log(gamename.normalize()); // repeat the string 
+console.log(gamename.search('ai'))
 
 
 
