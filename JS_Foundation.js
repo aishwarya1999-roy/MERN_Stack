@@ -202,7 +202,7 @@ console.log(gamename.substring());
 // console.log(trimstring.trimEnd()); //trim from end
 // console.log(trimstring.trimStart()); //trim from front
 // console.log(trimstring.trim()); //trim from both end
-console.log(trimstring.valueOf());
+console.log(gamename.valueOf());
 
 /*
 console.log(gamename.substring());
