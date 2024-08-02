@@ -178,7 +178,7 @@ console.log(user_two);
 
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
 
-const gamename = new String('aishw arya') //creating string as a object to use as a constructor
+const gamename = new String('aishwarya') //creating string as a object to use as a constructor
  
 // console.log(gamename[0]);
 console.log(gamename.substring());
