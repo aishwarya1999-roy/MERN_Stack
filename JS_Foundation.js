@@ -228,6 +228,6 @@ const areEqualInUpperCase = (str1, str2) =>
   const areEqualInLowerCase = (str1, str2) =>
     str1.toLowerCase() === str2.toLowerCase();
   
-  areEqualInUpperCase("ß", "ss"); // true; should be false
+ console.log(areEqualInUpperCase("ß", "ss"));  // true; should be false
   areEqualInLowerCase("ı", "I"); // false; should be true
   
