@@ -192,8 +192,8 @@ console.log(gamename.substring());
 // console.log(gamename.codePointAt(8)); //return ASCII value
 // console.log(gamename.endsWith('b'));
 // console.log(gamename.includes('a'));
-console.log(gamename.lastIndexOf('a')); // return index of last character in case of duplicate character
-console.log(gamename.repeat(2)); // repeat the string 
+// console.log(gamename.lastIndexOf('a')); // return index of last character in case of duplicate character
+// console.log(gamename.repeat(2)); // repeat the string 
 console.log(gamename.normalize()); // repeat the string 
 
 
