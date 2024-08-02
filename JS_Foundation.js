@@ -243,4 +243,4 @@ console.log(balance.toPrecision(2));
 console.log(balance.toExponential(2));
 
 const hundreds = 4000000
-console.log(hundreds.toLocaleString());
+console.log(hundreds.toLocaleString('en-IN'));
