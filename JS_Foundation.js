@@ -175,3 +175,5 @@ console.log(gamename.length);
 console.log(gamename.toUpperCase());
 console.log(gamename.charAt(2));
 console.log(gamename.indexOf('s'));
+
+
