@@ -177,7 +177,7 @@ console.log(user_two);
 //console.log(myname + repcount + "dew"); //outdated
 
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
-/*
+
 const gamename = new String('Aishwarya') //creating string as a object to use as a constructor
  
 console.log(gamename[0]);
@@ -188,6 +188,9 @@ console.log(gamename.charAt(2));
 console.log(gamename[2]);
 console.log(gamename.indexOf('s'));
 
+
+
+/*
 console.log(gamename.substring());
 // substring
 const newString = gamename.substring(2,5)
