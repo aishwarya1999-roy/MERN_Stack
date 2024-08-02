@@ -205,8 +205,6 @@ console.log(trimstring.trimEnd()); //trim from end
 console.log(trimstring.trimStart()); //trim from front
 console.log(trimstring.trim()); //trim from both end
 
-
-
 console.log(gamename.substring());
 // substring
 const newString = gamename.substring(2,5)
@@ -229,3 +227,5 @@ console.log(eval(s1)); // returns the number 4
 console.log(eval(s2)); // returns the string "2 + 2"
 console.log(eval(s2.valueOf())); // returns the number 4
 */
+
+// console.log("************ String *****************")
