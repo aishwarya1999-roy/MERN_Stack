@@ -201,7 +201,7 @@ console.log(gamename.substring());
 
 console.log(trimstring.trimEnd()); //trim from end
 console.log(trimstring.trimStart()); //trim from front
-console.log(trimstring.trim());
+console.log(trimstring.trim()); //trim from both end
 
 
 /*
