@@ -247,4 +247,4 @@ console.log(Number.MIN_SAFE_INTEGER);  */
 
 // console.log("************ Numbers  *****************")
 
-console.log(Math.abs);
+console.log(Math.abs(-4));
