@@ -187,7 +187,7 @@ console.log(gamename.substring());
 // console.log(gamename.toUpperCase());
 // console.log(gamename.charAt(2));
 // console.log(gamename[2]);
-// console.log(gamename.indexOf('s'));
+// console.log(gamename.indexOf('a')); // return index of first character in case of duplicate character
 // console.log(gamename.charCodeAt(0)); //return ASCII value
 // console.log(gamename.codePointAt(8)); //return ASCII value
 // console.log(gamename.endsWith('b'));
