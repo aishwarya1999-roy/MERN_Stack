@@ -188,7 +188,7 @@ console.log(gamename.substring());
 // console.log(gamename.charAt(2));
 // console.log(gamename[2]);
 // console.log(gamename.indexOf('s'));
-console.log(gamename.charCodeAt(2));
+console.log(gamename.charCodeAt(3));
 
 
 
