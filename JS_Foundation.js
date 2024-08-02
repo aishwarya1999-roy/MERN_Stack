@@ -64,6 +64,13 @@ console.log(myfunction())
 
 */
 
+// function creaton
+function myfunction(){
+    console.log("hello")
+    return "Aishwarya"
+}
+console.log(myfunction())
+
 
 //console.log("************ Datatype conversion *****************")
 /* 
@@ -163,17 +170,38 @@ console.log(user_two);
 
 // console.log("************ String *****************")
 
-const myname = "aish"
-const repcount = 13
+// const myname = "aish"
+// const repcount = 13
 //console.log(myname + repcount + "dew"); //outdated
 
 //console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
-const gamename = new String('Aishwarya')
+/*
+const gamename = new String('Aishwarya') //creating string as a object to use as a constructor
+ 
 console.log(gamename[0]);
 console.log(gamename.__proto__);
 console.log(gamename.length);
 console.log(gamename.toUpperCase());
 console.log(gamename.charAt(2));
+console.log(gamename[2]);
 console.log(gamename.indexOf('s'));
 
+console.log(gamename.substring());
+// substring
+const newString = gamename.substring(2,5)
+console.log(newString);
+// slicing
+const anotherString = gamename.slice(-9,5)
+console.log(anotherString);
 
+// A  i  s  h  w  a  r  y  a
+// 0  1  2  3  4  5  6  7  8
+//-9 -8 -7 -6 -5 -4 -3 -2 -1 - Slice backward index
+*/
+
+// const trimstring = "   Aishwarya space   "
+// console.log(trimstring);
+// console.log(trimstring.trim());
+
+// const url = "https://aishwarya.com/aishwarya%20roy"
+// console.log(url.replace('%20','-'));
