@@ -228,5 +228,5 @@ const areEqual = (str1, str2, locale = "en-US") =>
     str1.localeCompare(str2, locale, { sensitivity: "accent" }) === 0;
   
   console.log(areEqual("ß", "ss", "de")); // false
-  console.log( areEqual("ı", "I", "tr"));// true
+  console.log(areEqual("ı", "I", "tr"));// true
   
