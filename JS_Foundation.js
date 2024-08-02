@@ -223,11 +223,3 @@ const url = "https://aishwarya.com/aishwarya%20roy"
 console.log(url.replace('%20','-'));
 
 */
-const areEqualInUpperCase = (str1, str2) =>
-    str1.toUpperCase() === str2.toUpperCase();
-  const areEqualInLowerCase = (str1, str2) =>
-    str1.toLowerCase() === str2.toLowerCase();
-  
- console.log(areEqualInUpperCase("ß", "ss"));  // true; should be false
- console.log(areEqualInLowerCase("ı", "I"));  // false; should be true
-  
