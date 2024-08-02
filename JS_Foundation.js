@@ -183,7 +183,7 @@ const gamename = new String('aishwarya') //creating string as a object to use as
 // console.log(gamename[0]);
 console.log(gamename.substring());
 // console.log(gamename.__proto__);
-// console.log(gamename.length);
+// console.log(gamename.length); //len of string
 // console.log(gamename.toUpperCase());
 // console.log(gamename.charAt(2));
 // console.log(gamename[2]);
