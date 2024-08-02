@@ -172,6 +172,7 @@ console.log(user_two);
 
 // console.log("************ String *****************")
 
+/*
 const myname = "aish"
 const repcount = 13
 console.log(myname + repcount + "dew"); //outdated
@@ -205,7 +206,7 @@ console.log(trimstring.trimStart()); //trim from front
 console.log(trimstring.trim()); //trim from both end
 
 
-/*
+
 console.log(gamename.substring());
 // substring
 const newString = gamename.substring(2,5)
