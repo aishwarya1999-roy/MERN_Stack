@@ -198,7 +198,7 @@ console.log(gamename.substring());
 // console.log(gamename.repeat(2)); // repeat the string 
 //console.log(gamename.split(',')); //split the string and make array
 console.log(gamename.toLowerCase());
-console.log(gamename.toLocaleLowerCase());
+console.log(gamename.toString());
 
 
 
