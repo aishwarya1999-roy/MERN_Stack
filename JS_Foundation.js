@@ -240,3 +240,4 @@ console.log(balance.toString());
 console.log(balance.toString().length);
 console.log(balance.toFixed(2));
 console.log(balance.toPrecision(2));
+console.log(balance.toExponential(2));
