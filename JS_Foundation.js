@@ -224,6 +224,9 @@ console.log(url.replace('%20','-'));
 
 */
 
+const areEqual = (str1, str2, locale = "en-US") =>
+    str1.localeCompare(str2, locale) === 0;
+  
   console.log(areEqual("ß", "ss", "de")); // false
   console.log(areEqual("ı", "I", "tr"));// true
   
