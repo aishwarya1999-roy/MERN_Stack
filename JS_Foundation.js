@@ -246,3 +246,5 @@ console.log(hundreds.toLocaleString('en-IN'));
 console.log(Number.MIN_SAFE_INTEGER);  */
 
 // console.log("************ Numbers  *****************")
+
+console.log(Math);
