@@ -193,7 +193,7 @@ console.log(gamename.substring());
 // console.log(gamename.endsWith('b'));
 // console.log(gamename.includes('a'));
 console.log(gamename.lastIndexOf('a')); // return index of last character in case of duplicate character
-
+console.log(gamename.length()); 
 
 
 
