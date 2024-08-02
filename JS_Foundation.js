@@ -181,8 +181,8 @@ console.log(user_two);
 const gamename = new String('AishwaryA') //creating string as a object to use as a constructor
 const trimstring = "   Aishwarya space   "
 // console.log(gamename[0]);
-console.log(gamename.substring(2,4)); //slice into substring
 console.log(gamename.valueOf()); //return premitive value of the object
+//console.log(gamename.substring(2,4)); //slice into substring
 // console.log(gamename.__proto__);
 // console.log(gamename.length); //len of string
 // console.log(gamename.toUpperCase());
