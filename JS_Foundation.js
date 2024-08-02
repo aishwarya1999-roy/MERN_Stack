@@ -236,3 +236,4 @@ console.log(numbervalue);
 
 const balance = new Number(500)
 console.log(balance);
+console.log(balance.toFixed(2));
