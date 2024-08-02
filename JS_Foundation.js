@@ -235,3 +235,4 @@ const numbervalue = 400
 console.log(numbervalue);
 
 const balance = new Number(500)
+console.log(balance);
