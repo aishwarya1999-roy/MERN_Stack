@@ -62,14 +62,16 @@ const myfunction = function(){
 }
 console.log(myfunction())
 
-*/
-
-// function creaton
+// function creaton another way
 function myfunction(){
     console.log("hello")
     return "Aishwarya"
 }
 console.log(myfunction())
+
+*/
+
+
 
 
 //console.log("************ Datatype conversion *****************")
