@@ -223,10 +223,7 @@ const url = "https://aishwarya.com/aishwarya%20roy"
 console.log(url.replace('%20','-'));
 
 */
-
-const areEqual = (str1, str2, loca) =>
-    str1.localeCompare(str2, loca) === 0;
-  
-console.log(areEqual("ß", "ss", "de")); // false
-console.log(areEqual("ı", "I", "tr"));// true
-  
+const s1 = "2 + 2"; // creates a string primitive
+const s2 = new String("2 + 2"); // creates a String object
+console.log(eval(s1)); // returns the number 4
+console.log(eval(s2)); // returns the string "2 + 2"
