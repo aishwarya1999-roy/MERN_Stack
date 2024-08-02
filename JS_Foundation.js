@@ -242,5 +242,5 @@ console.log(balance.toFixed(2));
 console.log(balance.toPrecision(2));
 console.log(balance.toExponential(2));
 
-const hundreds = 400000000
+const hundreds = 40000000
 console.log(hundreds.toLocaleString());
