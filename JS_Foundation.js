@@ -229,3 +229,7 @@ console.log(eval(s2.valueOf())); // returns the number 4
 */
 
 // console.log("************ Numbers & Maths *****************")
+
+
+const numbervalue = 400
+console.log(numbervalue);
