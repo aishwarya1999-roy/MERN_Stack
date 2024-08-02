@@ -244,4 +244,4 @@ console.log(balance.toExponential(2));
 
 const hundreds = 4000000
 console.log(hundreds.toLocaleString('en-IN'));
-console.log(Number.MAX_SAFE_INTEGER);
+console.log(Number.MAX_VALUE);
