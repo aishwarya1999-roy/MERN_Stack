@@ -228,10 +228,8 @@ console.log(eval(s2)); // returns the string "2 + 2"
 console.log(eval(s2.valueOf())); // returns the number 4
 */
 
-// console.log("************ Numbers & Maths *****************")
-
-
-const numbervalue = 400
+// console.log("************ Numbers  *****************")
+/*const numbervalue = 400
 console.log(numbervalue);
 
 const balance = new Number(5)
@@ -244,4 +242,6 @@ console.log(balance.toExponential(2));
 
 const hundreds = 4000000
 console.log(hundreds.toLocaleString('en-IN'));
-console.log(Number.MIN_SAFE_INTEGER);
+console.log(Number.MIN_SAFE_INTEGER);  */
+
+// console.log("************ Numbers  *****************")
