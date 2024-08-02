@@ -200,6 +200,7 @@ console.log(gamename.substring());
 //console.log(gamename.split(',')); //split the string and make array
 
 console.log(gamename.trimEnd());
+console.log(gamename.trimStart());
 
 
 
