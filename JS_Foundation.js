@@ -185,7 +185,7 @@ console.log(gamename.substring());
 // console.log(gamename.__proto__);
 // console.log(gamename.length); //len of string
 // console.log(gamename.toUpperCase());
-//console.log(gamename.toLowerCase());
+// console.log(gamename.toLowerCase());
 // console.log(gamename.charAt(2));
 // console.log(gamename[2]);
 //console.log(gamename.indexOf('is')); // return index of first character in case of duplicate character
