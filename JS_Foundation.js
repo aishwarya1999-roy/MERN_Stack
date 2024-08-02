@@ -182,6 +182,7 @@ const gamename = new String('AishwaryA') //creating string as a object to use as
 const trimstring = "   Aishwarya space   "
 // console.log(gamename[0]);
 console.log(gamename.substring());
+console.log(gamename.valueOf()); //return premitive value of the object
 // console.log(gamename.__proto__);
 // console.log(gamename.length); //len of string
 // console.log(gamename.toUpperCase());
@@ -202,7 +203,7 @@ console.log(gamename.substring());
 // console.log(trimstring.trimEnd()); //trim from end
 // console.log(trimstring.trimStart()); //trim from front
 // console.log(trimstring.trim()); //trim from both end
-console.log(gamename.valueOf());
+
 
 /*
 console.log(gamename.substring());
