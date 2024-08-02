@@ -63,11 +63,11 @@ const myfunction = function(){
 console.log(myfunction())
 
 // function creaton another way
-function myfunction(){
+function functionanotherWay(){
     console.log("hello")
     return "Aishwarya"
 }
-console.log(myfunction())
+console.log(functionanotherWay())
 
 */
 
