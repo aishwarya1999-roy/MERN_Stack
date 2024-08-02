@@ -196,7 +196,7 @@ console.log(gamename.substring());
 // console.log(gamename.lastIndexOf('a')); // return index of last character in case of duplicate character
 // console.log(gamename.repeat(2)); // repeat the string 
 //console.log(gamename.split(',')); //split the string and make array
-console.log(gamename.split(','));
+console.log(gamename.startsWith('g'));
 
 
 
