@@ -247,7 +247,7 @@ console.log(Number.MIN_SAFE_INTEGER);  */
 
 // console.log("************ Maths  *****************")
 /*
-console.log(Math.abs(-4));
+console.log(Math.abs(4));
 console.log(Math.round(4.6)); // it round of the floating point number
 console.log(Math.ceil(4.6)); // return ceil mean celling value of floating point number
 console.log(Math.floor(4.6)); //return floor value for floating point numbers
