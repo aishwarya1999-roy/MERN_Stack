@@ -285,5 +285,5 @@ console.log(mydate.getHours());
 // console.log(myTimestamp);
 // console.log(Math.floor(Date.now()/1000));
 console.log(`Date is ${mydate.getDay()}`);
-console.log(`Date is ${mydate.getUTCDay()}`);
+
 
