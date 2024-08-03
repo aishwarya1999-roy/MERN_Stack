@@ -284,5 +284,5 @@ console.log(mydate.getHours());
 // let myTimestamp = Date.now()
 // console.log(myTimestamp);
 // console.log(Math.floor(Date.now()/1000));
-console.log(`Date is ${mydate.getDay()}`);
+console.log(`Date is ${mydate.getDay().toString()}`);
 
