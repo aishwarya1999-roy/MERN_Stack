@@ -271,5 +271,5 @@ console.log(mydate.toLocaleString('default', {weekday: "long"}))
 
 
 
-
+// console.log("************ Date & time  *****************")
 
