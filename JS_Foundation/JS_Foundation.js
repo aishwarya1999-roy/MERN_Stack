@@ -248,11 +248,11 @@ console.log(Number.MIN_SAFE_INTEGER);  */
 // console.log("************ Maths  *****************")
 /*
 console.log(Math.abs(-4));
-console.log(Math.round(4.6));
-console.log(Math.ceil(4.6));
-console.log(Math.floor(4.6));
-console.log(Math.sqrt(4));
-console.log(Math.pow(2,4));
+console.log(Math.round(4.6)); // it round of the floating point number
+console.log(Math.ceil(4.6)); // return ceil mean celling value of floating point number
+console.log(Math.floor(4.6)); //return floor value for floating point numbers
+console.log(Math.sqrt(4)); // //square root
+console.log(Math.pow(2,4)); //power of n
 console.log(Math.max(19, 45, 99, 5)); //return max
 console.log(Math.min(19, 45, 99, 5)); //return min
 console.log(Math.random()); //return value from 0 to 1
