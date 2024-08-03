@@ -1,4 +1,4 @@
-// console.log("************ Numbers  *****************")
+console.log("************ Numbers  *****************")
 
 const numbervalue = 400
 console.log(numbervalue);
@@ -15,7 +15,7 @@ const hundreds = 4000000
 console.log(hundreds.toLocaleString('en-IN'));
 console.log(Number.MIN_SAFE_INTEGER);
 
-// console.log("************ Maths  *****************")
+console.log("************ Maths  *****************")
 
 console.log(Math.abs(-4)); //return positive value for any given negetive value
 console.log(Math.round(4.6)); // it round of the floating point number
