@@ -1,22 +1,8 @@
-console.log("~~ Hey there, This is all about JS foundation ~~")
 
-//console.log("************ console.log(), const, var, let *****************")
-
-/*
-const EmpID = 40 //constant declaration, can't change the value
-let EmpMail = "abc@gmail.com" //variable declaration - scope in var
-var contact = 123456 //variable declaration - no scope in var - never use var
-city = "Kolkata" //variable declaration - we can declare without let/var but it is not recomemded. 
-let account_state; //undefined value stored here as no value passed
-
-//Prefer not to use var as there are issue with block scope & funcational scope
-console.log(EmpID, EmpMail, contact, city)  //console.log() is to print anything
-console.table([EmpID, EmpMail, contact, city, account_state]) //console.table() is used to show everything as a table format
-*/
 
 //console.log("************ Datatype *****************")
 
-"use strict"; //treat all JS code as newer version - as of now it takes it default
+
 
 //alert("Hello") // works on browser
 
@@ -265,25 +251,25 @@ console.log( Math.floor(Math.random() * (max - min + 1)) + min );
 
 
 // console.log("************ Date & time  *****************")
+/**  
 let mydate = new Date()
-//console.log(mydate);
+console.log(mydate);
 console.log(mydate.toString());
-// console.log(mydate.toDateString());
-// console.log(mydate.toTimeString());
+console.log(mydate.toDateString());
+console.log(mydate.toTimeString());
 console.log(mydate.getHours());
-// console.log(mydate.toISOString());
-// console.log(mydate.toJSON());
-// console.log(mydate.toLocaleDateString());
-// console.log(mydate.toLocaleString());
+console.log(mydate.toISOString());
+console.log(mydate.toJSON());
+console.log(mydate.toLocaleDateString());
+console.log(mydate.toLocaleString());
 
-// let my_created_date = new Date(2024, 7, 5)
-// let my_created_date = new Date(2024, 7, 5,5, 3)
-// let another_date = new Date(2024, 7, 5,5, 3)
-
-//console.log(my_created_date.toLocaleString());
-// let myTimestamp = Date.now()
-// console.log(myTimestamp);
-// console.log(Math.floor(Date.now()/1000));
+let my_created_date = new Date(2024, 7, 5) //let my_created_date = new Date(2024, 7, 5,5, 3)
+let another_date = new Date(2024, 7, 5,5, 3)
+console.log(my_created_date.toLocaleString());
+let myTimestamp = Date.now()
+console.log(myTimestamp);
+console.log(Math.floor(Date.now()/1000));
 console.log(`Date is ${mydate.getDay()}`);
-
+console.log(mydate.toLocaleString('default', {weekday: "long"}))
+*/
 
