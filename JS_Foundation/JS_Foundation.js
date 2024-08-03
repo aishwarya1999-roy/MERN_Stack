@@ -281,8 +281,8 @@ console.log(mydate);
 // let another_date = new Date(2024, 7, 5,5, 3)
 
 //console.log(my_created_date.toLocaleString());
-let myTimestamp = Date.now()
-console.log(myTimestamp);
-console.log(Math.floor(Date.now()/1000));
+// let myTimestamp = Date.now()
+// console.log(myTimestamp);
+// console.log(Math.floor(Date.now()/1000));
 console.log(`Date is ${mydate.getDay()}`);
 
