@@ -1,4 +1,4 @@
-console.log("~~ Hey there, This is all about JS foundation ~~")
+console.log("~~ Hey there, This is all about JS foundation in once sheet ~~")
 
 //console.log("************ Datatype *****************")
 
