@@ -1,7 +1,5 @@
 console.log("~~ Hey there, This is all about JS foundation ~~")
 
-
-
 //console.log("************ Datatype *****************")
 
 "use strict"; //treat all JS code as newer version - as of now it takes it default
