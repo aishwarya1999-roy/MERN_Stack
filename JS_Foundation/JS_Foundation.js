@@ -269,3 +269,7 @@ console.log(`Date is ${mydate.getDay()}`);
 console.log(mydate.toLocaleString('default', {weekday: "long"}))
 */
 
+
+
+
+
