@@ -285,5 +285,5 @@ let myTimestamp = Date.now()
 console.log(myTimestamp);
 console.log(Math.floor(Date.now()/1000));
 console.log(`Hello my name is ${myname} and my repo count is ${repcount}`);
-console.log(`${Date is  mydate.getDay()} `);
+console.log(`Date is ${mydate.getDay()}`);
 
