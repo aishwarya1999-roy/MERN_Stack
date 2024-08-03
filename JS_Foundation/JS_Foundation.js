@@ -283,5 +283,5 @@ let mydate = new Date()
 //console.log(my_created_date.toLocaleString());
 let myTimestamp = Date.now()
 console.log(myTimestamp);
-console.log(Date.now()/1000);
+console.log(Math.floor(Date.now()/1000));
 
