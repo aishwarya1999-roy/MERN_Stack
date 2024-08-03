@@ -1,8 +1,7 @@
 console.log("~~ Hey there, This is all about JS foundation in once sheet ~~")
 
-//console.log("************ Datatype *****************")
-
 "use strict"; //treat all JS code as newer version - as of now it takes it default
+//console.log("************ Datatype *****************")
 
 //alert("Hello") // works on browser
 
