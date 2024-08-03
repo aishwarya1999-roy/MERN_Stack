@@ -15,7 +15,7 @@ let islogginin = false //boolean declarion
 //symbol = unique
 const id = Symbol('123')
 const another_id = Symbol('123')
-console.log(id === another_id; //false 
+console.log(id === another_id); //false 
 
 // bigint - bigger than number
 const bignum = 41656598456n //bigint declarion
