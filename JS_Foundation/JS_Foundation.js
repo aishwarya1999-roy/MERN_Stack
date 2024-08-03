@@ -267,10 +267,10 @@ console.log( Math.floor(Math.random() * (max - min + 1)) + min );
 // console.log("************ Date & time  *****************")
 let mydate = new Date()
 console.log(mydate);
-// console.log(mydate.toString());
+console.log(mydate.toString());
 // console.log(mydate.toDateString());
 // console.log(mydate.toTimeString());
-// console.log(mydate.getHours());
+console.log(mydate.getHours());
 // console.log(mydate.toISOString());
 // console.log(mydate.toJSON());
 // console.log(mydate.toLocaleDateString());
