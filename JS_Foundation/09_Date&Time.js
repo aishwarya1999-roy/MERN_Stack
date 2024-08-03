@@ -1,5 +1,5 @@
-// console.log("************ Date & time  *****************")
-/**  
+console.log("************ Date & time  *****************")
+
 let mydate = new Date()
 console.log(mydate);
 console.log(mydate.toString());
@@ -19,4 +19,3 @@ console.log(myTimestamp);
 console.log(Math.floor(Date.now()/1000));
 console.log(`Date is ${mydate.getDay()}`);
 console.log(mydate.toLocaleString('default', {weekday: "long"}))
-*/
