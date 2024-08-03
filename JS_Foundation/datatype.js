@@ -1,6 +1,6 @@
 console.log("************ Datatype *****************")
 
-alert("Hello") // works on browser
+//alert("Hello") // works on browser
 
 // Primitve & Non primitive data type
 // Primitive - 7type : string, number, boolean, null, undefined, symbol, bigint
