@@ -328,6 +328,10 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log("************ Objects *****************")
 
+//Object.create // constructor way
+//object literals
+const js_user = {}
+
 
 
 
