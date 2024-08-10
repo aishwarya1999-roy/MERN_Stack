@@ -307,7 +307,7 @@ const arr = [1, 4, 6, 7, 8]
 
 const mar_hero = ["he", "she" , "kk"]
 const DC_hero = ["hwe", "ewe" , "wae"]
-const ind_hero = ["hwe", "ewe" , "wae"]
+const ind_hero = ["hary", "we" , "wer"]
 
 //mar_hero.push(DC_hero) //array under array
 //const pp = mar_hero.concat(DC_hero) // concat two array
