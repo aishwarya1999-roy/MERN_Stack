@@ -326,7 +326,7 @@ const val3 = 300
 console.log(Array.of(val1, val2, val3));
 */
 
-// console.log("************ Array *****************")
+// console.log("************ Objects *****************")
 
 
 
