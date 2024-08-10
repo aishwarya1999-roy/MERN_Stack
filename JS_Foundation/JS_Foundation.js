@@ -324,7 +324,7 @@ console.log(Array.from("Aishwarya"));
 const val1 = 100
 const val2 = 200
 const val3 = 300
-console.log(Array.of("Aishwarya"));
+console.log(Array.of(val1, val2, val3));
 
 
 
