@@ -314,7 +314,7 @@ const ind_hero = ["hary", "we" , "wer"]
 //const all_hero = [...mar_hero, ...DC_hero, ...ind_hero] // concat any numbers of array
 //console.log(all_hero);
 
-const nested_array = [1,2,3, [4,5], 6 , [7,8,[9,10]]]
+const nested_array = [1,2,3,[4,5],6,[7,8,[9,10]]]
 console.log(nested_array.flat(Infinity));
 
 
