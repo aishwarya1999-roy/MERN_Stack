@@ -309,7 +309,8 @@ const mar_hero = ["he", "she" , "kk"]
 const DC_hero = ["hwe", "ewe" , "wae"]
 
 //mar_hero.push(DC_hero) //array under array
-const pp = mar_hero.concat(DC_hero)
+//const pp = mar_hero.concat(DC_hero) // concat two array
+const all_hero = [...mar_hero, ...DC_hero]
 console.log(pp);
 
 
