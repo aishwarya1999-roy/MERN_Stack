@@ -318,8 +318,7 @@ const nested_array = [1,2,3,[4,5],6,[7,8,[9,10]]]
 // console.log(nested_array.flat(Infinity));
 
 
-console.log(Array.isArray(const nested_array = [1,2,3,[4,5],6,[7,8,[9,10]]]
-));
+console.log(Array.isArray(nested_array));
 
 
 
