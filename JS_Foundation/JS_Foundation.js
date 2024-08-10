@@ -295,15 +295,19 @@ const arr = [1, 4, 6, 7, 8]
 // console.log(new_ary);
 
 //slice
-console.log("A ", arr); 
-const new_slice = arr.slice(1,3) //Slice - return only the sliced part of the list, it return like (start_index, end_index), it doesn't affect  anything to the original array
-console.log(new_slice);
+// console.log("A ", arr); 
+// const new_slice = arr.slice(1,3) //Slice - return only the sliced part of the list, it return like (start_index, end_index), it doesn't affect  anything to the original array
+// console.log(new_slice);
 
-console.log("B ", arr);
-const new_splice = arr.splice(1,3) //Splice - it separates the splice part form the array, and return like (start_index, how many numbers you wanna return), and the original array remain with the remaning elements, so it changes the original array
-console.log(new_splice);
+// console.log("B ", arr);
+// const new_splice = arr.splice(1,3) //Splice - it separates the splice part form the array, and return like (start_index, how many numbers you wanna return), and the original array remain with the remaning elements, so it changes the original array
+// console.log(new_splice);
 
-console.log("C ", arr);
+// console.log("C ", arr);
+
+const mar_hero = ["he", "she" , "kk"]
+const DC_hero = ["hwe", "ewe" , "wae"]
+
 
 
 
