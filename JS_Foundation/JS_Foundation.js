@@ -330,7 +330,14 @@ console.log(Array.of(val1, val2, val3));
 
 //Object.create // constructor way
 //object literals
-const js_user = {}
+const js_user = {
+    name : "Aish",
+    age : 25,
+    City : Kolkata,
+    isloggin : false
+}
+
+console.log(js_user);
 
 
 
