@@ -318,6 +318,7 @@ const ind_hero = ["hary", "we" , "wer"]
 // console.log(nested_array.flat(Infinity));
 
 
+console.log(Array.isArray("Aish"));
 
 
 
