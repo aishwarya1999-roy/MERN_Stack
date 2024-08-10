@@ -309,8 +309,8 @@ const mar_hero = ["he", "she" , "kk"]
 const DC_hero = ["hwe", "ewe" , "wae"]
 
 //mar_hero.push(DC_hero) //array under array
-
-console.log(mar_hero.concat(DC_hero));
+pp = mar_hero.concat(DC_hero)
+console.log(pp);
 
 
 
