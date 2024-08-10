@@ -311,7 +311,7 @@ const ind_hero = ["hary", "we" , "wer"]
 
 //mar_hero.push(DC_hero) //array under array
 //const pp = mar_hero.concat(DC_hero) // concat two array
-const all_hero = [...mar_hero, ...DC_hero, ...ind_hero]
+//const all_hero = [...mar_hero, ...DC_hero, ...ind_hero] // concat any numbers of array
 console.log(all_hero);
 
 
