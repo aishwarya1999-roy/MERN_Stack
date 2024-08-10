@@ -333,7 +333,7 @@ console.log(Array.of(val1, val2, val3));
 const js_user = {
     name : "Aish",
     age : 25,
-    City : Kolkata,
+    City : "Kolkata",
     isloggin : false
 }
 
