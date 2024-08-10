@@ -337,7 +337,7 @@ const js_user = {
     isloggin : false
 }
 
-console.log(js_user);
+console.log(js_user.City);
 
 
 
