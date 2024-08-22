@@ -2,7 +2,7 @@
 
 //shallow copy of an object is a copy whose properties share the same referance  - so if we change anything in source or copy file, both the file changes
 //deep copy of an object is a copy whose properties don't share the same referance  - not disturing the source changing anything to copy and vice versa
-/* 
+ 
 const arr = [1, 4, 6, 7, 8]
 console.log(arr[1]);
 
@@ -51,4 +51,3 @@ const val1 = 100
 const val2 = 200
 const val3 = 300
 console.log(Array.of(val1, val2, val3));
-*/
