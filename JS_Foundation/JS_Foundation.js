@@ -339,12 +339,3 @@ const js_user = {
 
 console.log(js_user.name);
 console.log(js_user["age"]);
-
-
-
-
-
-
-
-
-
