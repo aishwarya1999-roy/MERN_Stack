@@ -337,7 +337,7 @@ const js_user = {
     "name" : "Aish",
     age : 25,
     City : "Kolkata",
-    [myst] : "MyKey1",
+    myst : "MyKey1",
     isloggin : false
 }
 // Object.freeze(js_user)
