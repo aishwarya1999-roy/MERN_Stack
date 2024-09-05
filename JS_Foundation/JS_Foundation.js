@@ -356,3 +356,4 @@ console.log(js_user.greeting());
 js_user.greetingto = function(){
     console.log(`Hello, Good Morning ${this.name}`);
 }
+console.log(js_user.greetingto());
