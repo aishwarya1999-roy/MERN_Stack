@@ -376,7 +376,7 @@ const regularUser = {
     email : "som@gmailak",
     fullname :{
         usersname : {
-            
+            firstname :"Aishwarya"
         }
     }
 }
