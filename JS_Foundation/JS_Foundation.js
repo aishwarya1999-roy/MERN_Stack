@@ -361,7 +361,13 @@ console.log(Array.of(val1, val2, val3));
 
 //object singleton or using constructor
 
-//const facebook = new Object()
-const facebook = {}
+//const facebook = new Object() // singleton object 
+const facebook = {} // non singleton object
+
+console.log(facebook)
+
+facebook.id = '123abs'
+facebook.name = 'Aishwarya'
+facebook.isLoggedin = false
 
 console.log(facebook)
