@@ -364,7 +364,7 @@ console.log(Array.of(val1, val2, val3));
 //const facebook = new Object() // singleton object 
 const facebook = {} // non singleton object
 
-console.log(facebook)
+//console.log(facebook)
 
 facebook.id = '123abs'
 facebook.name = 'Aishwarya'
