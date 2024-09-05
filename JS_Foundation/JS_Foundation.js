@@ -380,5 +380,5 @@ const regularUser = {
             Lastname : "Roy"
         }
     },
-    address : ""
+    address : "ABC, "
 }
