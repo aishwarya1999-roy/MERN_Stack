@@ -352,6 +352,6 @@ js_user.greeting = function(){
     console.log("Hello, Good Morning");
 }
 
-console.log(js_user.greeting);
+console.log(js_user.greeting());
 
 
