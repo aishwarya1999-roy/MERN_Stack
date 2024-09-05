@@ -395,7 +395,7 @@ const regularUser = {
 const users = [
     {
         id : 1,
-        email : "hh@gmail.com"
+        "email" : "hh@gmail.com"
     }
 ]
 
