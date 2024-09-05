@@ -379,5 +379,6 @@ const regularUser = {
             firstname :"Aishwarya",
             Lastname : "Roy"
         }
-    }
+    },
+    
 }
