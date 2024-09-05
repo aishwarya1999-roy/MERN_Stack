@@ -371,3 +371,5 @@ facebook.name = 'Aishwarya'
 facebook.isLoggedin = false
 
 //console.log(facebook)
+
+const facebook = {}
