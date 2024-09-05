@@ -395,6 +395,6 @@ console.log(obj3);
 const users = [
     {
         id = 1,
-        email : 
+        email : "hh@gmail.com"
     }
 ]
