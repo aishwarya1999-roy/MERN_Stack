@@ -385,11 +385,11 @@ const regularUser = {
 
 //console.log(regularUser.fullname?.usersname.firstname); // ? is used for error handeling, if the fullname object is not there then it won't throw error, it just give undefined
 
-const obj1 = { 1:'a', 2:'b'}
-const obj2 = { 3:'c', 4:'d'}
-//const obj3 = Object.assign({}, obj1, obj2) //assign(target , source) // 1st way to concat
-const obj3 = {...obj1,...obj2} //2nd way to concat
-console.log(obj3);
+// const obj1 = { 1:'a', 2:'b'}
+// const obj2 = { 3:'c', 4:'d'}
+// //const obj3 = Object.assign({}, obj1, obj2) //assign(target , source) // 1st way to concat
+// const obj3 = {...obj1,...obj2} //2nd way to concat
+// console.log(obj3);
 
 
 const users = [
