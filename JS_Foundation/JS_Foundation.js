@@ -348,6 +348,8 @@ const js_user = {
 // js_user.City = "howrah"
 // console.log(js_user);
 
-
+js_user.greeting = function(){
+    
+}
 
 
