@@ -377,7 +377,7 @@ const regularUser = {
     fullname :{
         usersname : {
             firstname :"Aishwarya",
-            Lastname  "Roy"
+            Lastname : "Roy"
         }
     }
 }
