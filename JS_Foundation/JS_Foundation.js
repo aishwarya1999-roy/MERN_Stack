@@ -374,5 +374,5 @@ facebook.isLoggedin = false
 
 const regularUser = {
     email : "som@gmailak",
-    fukk
+    fullname 
 }
