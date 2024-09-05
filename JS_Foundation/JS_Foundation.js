@@ -386,4 +386,4 @@ const regularUser = {
 console.log(regularUser.fullname?.usersname.firstname); // ? is used for error handeling, if the fullname object is not there then it won't throw error, it just give undefined
 
 const obj1 = { 1:'a', 2:'b'}
-const obj2 = { 3:'a', 4:'d'}
+const obj2 = { 3:'c', 4:'d'}
