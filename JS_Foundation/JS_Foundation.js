@@ -383,4 +383,4 @@ const regularUser = {
     address : "ABC, road, 71110"
 }
 
-console.log(regularUser);
+console.log(regularUser.fullname);
