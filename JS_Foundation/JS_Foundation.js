@@ -394,6 +394,6 @@ console.log(obj3);
 
 const users = [
     {
-        
+        id = 1
     }
 ]
