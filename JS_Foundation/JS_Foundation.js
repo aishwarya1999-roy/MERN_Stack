@@ -373,5 +373,6 @@ facebook.isLoggedin = false
 //console.log(facebook)
 
 const regularUser = {
-    email : "som@gmailak"
+    email : "som@gmailak",
+    fukk
 }
