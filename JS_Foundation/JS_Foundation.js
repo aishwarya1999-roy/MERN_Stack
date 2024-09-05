@@ -349,6 +349,7 @@ const js_user = {
 // console.log(js_user);
 
 js_user.greeting = function(){
+    console.log("Hello, Good Morning");
     
 }
 
