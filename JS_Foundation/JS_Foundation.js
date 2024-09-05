@@ -401,4 +401,4 @@ const users = [
 
 console.log(users[0].email);
 
-log
+console.log(facebook);
