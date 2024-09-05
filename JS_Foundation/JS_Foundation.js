@@ -402,4 +402,4 @@ const users = [
 // console.log(users[0].email);
 
 console.log(facebook);
-console.log(facebook);
+console.log(Object);
