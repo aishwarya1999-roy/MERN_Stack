@@ -361,6 +361,7 @@ console.log(Array.of(val1, val2, val3));
 
 //object singleton or using constructor
 
-const facebook = new Object()
+//const facebook = new Object()
+const facebook = {}
 
 console.log(facebook)
