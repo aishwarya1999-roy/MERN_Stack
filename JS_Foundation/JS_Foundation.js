@@ -331,7 +331,7 @@ console.log(Array.of(val1, val2, val3));
 //Object.create // constructor way
 //object literals
 
-const myst = Symbol("Key1")
+//const myst = Symbol("Key1")
 
 const js_user = {
     "name" : "Aish",
