@@ -399,4 +399,4 @@ const users = [
     }
 ]
 
-console.log(users.email);
+console.log(users.);
