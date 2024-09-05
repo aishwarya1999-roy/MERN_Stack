@@ -357,3 +357,10 @@ console.log(Array.of(val1, val2, val3));
 //     console.log(`Hello, Good Morning ${this.name}`);
 // }
 // console.log(js_user.greetingto());
+
+
+//object singleton or using constructor
+
+const facebook = new Object()
+
+console.log(facebook)
