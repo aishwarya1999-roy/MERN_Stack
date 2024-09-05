@@ -383,4 +383,4 @@ const regularUser = {
     address : "ABC, road, 71110"
 }
 
-console.log(regularUser.fullname?.usersname.firstname); // ? is used for error handeling, if the fullname object is not there then it won't tho
+console.log(regularUser.fullname?.usersname.firstname); // ? is used for error handeling, if the fullname object is not there then it won't throw error, it just 
