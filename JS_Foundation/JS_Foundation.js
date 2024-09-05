@@ -370,4 +370,4 @@ facebook.id = '123abs'
 facebook.name = 'Aishwarya'
 facebook.isLoggedin = false
 
-console.log(facebook)
+//console.log(facebook)
