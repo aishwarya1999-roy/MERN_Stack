@@ -399,4 +399,4 @@ const users = [
     }
 ]
 
-console.log(users.);
+console.log(users[1]);
