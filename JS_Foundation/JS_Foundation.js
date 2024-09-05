@@ -372,4 +372,4 @@ facebook.isLoggedin = false
 
 //console.log(facebook)
 
-const facebook = {}
+const regular = {}
