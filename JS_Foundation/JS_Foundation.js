@@ -400,4 +400,3 @@ const users = [
 ]
 
 console.log(users[0].email);
-    
