@@ -11,9 +11,7 @@
 //     console.log("Y");
 //     console.log("A"); 
 // }
-
 // myname()
-
 
 // function add_number(num1, num2){
 //     console.log(num1+num2);   
