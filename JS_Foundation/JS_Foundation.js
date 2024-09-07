@@ -437,7 +437,7 @@ console.log(Array.of(val1, val2, val3));
 function myname(){
     console.log("A");
     console.log("I");
-    console.log("SA");
+    console.log("S");
     console.log("H");
     console.log("A");
     console.log("A");
