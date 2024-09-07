@@ -549,11 +549,11 @@ console.log(Array.of(val1, val2, val3));
 // arrow_user.welcomeMessage()
 
 
-const chai = function(){
-    let username = "Aishwarya"
-    console.log(this.username);
-}
-chai()
+// const chai = function(){
+//     let username = "Aishwarya"
+//     console.log(this.username);
+// }
+// chai()
 
 const chai = function(){
     let username = "Aishwarya"
