@@ -422,7 +422,7 @@ console.log(Array.of(val1, val2, val3));
 
 {
     "name" : "Aishw",
-    course  
+    course : 
 }
 
 
