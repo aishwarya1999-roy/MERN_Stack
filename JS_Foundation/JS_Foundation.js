@@ -517,7 +517,7 @@ function one(){
         const web = "youtube.com"
         console.log(user_name);
     }
-    console.log(web);
+    
     two()
 }
 one()
