@@ -539,7 +539,7 @@ const arrow_user = {
     username : "Aish",
     price : 999,
     welcomeMessage : function(){
-        console.log(`${username}, welcome to our website`);
+        console.log(`${thisusername}, welcome to our website`);
     }
 }
 
