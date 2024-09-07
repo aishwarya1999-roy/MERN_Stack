@@ -445,3 +445,5 @@ function myname(){
     console.log("Y");
     console.log("A"); 
 }
+
+log
