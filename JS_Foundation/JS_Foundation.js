@@ -523,5 +523,5 @@ console.log(Array.of(val1, val2, val3));
 // one()
 
 function addone(num){
-    
+    reurn num+1
 }
