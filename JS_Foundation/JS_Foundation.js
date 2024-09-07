@@ -543,4 +543,5 @@ const arrow_user = {
     }
 }
 
-console.log(arrow_user.welcomeMessage);
+console.log(arrow_user.welcomeMessage()); // Calling the function
+
