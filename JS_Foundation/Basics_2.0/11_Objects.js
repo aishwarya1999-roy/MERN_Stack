@@ -1,7 +1,7 @@
 console.log("************ Objects *****************")
 
 Object.create // constructor way
-object literals
+//object literals
 
 const myst = Symbol("Key1")
 
