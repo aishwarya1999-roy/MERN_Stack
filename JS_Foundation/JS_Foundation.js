@@ -481,5 +481,5 @@ const user = {
 }
 
 function handleobjcet (anyobject){
-
+    log
 }
