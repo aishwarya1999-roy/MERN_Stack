@@ -409,7 +409,7 @@ console.log(Array.of(val1, val2, val3));
 
 
 const course = {
-    coursename : "Python Programming",
+    coursename : "Python Prog",
     price : '333',
     instructor : "aishwraya"
 }
