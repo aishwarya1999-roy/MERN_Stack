@@ -446,4 +446,4 @@ function myname(){
     console.log("A"); 
 }
 
-console.log(myname);
+console.log(myname());
