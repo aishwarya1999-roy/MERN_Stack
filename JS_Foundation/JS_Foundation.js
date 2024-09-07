@@ -467,4 +467,4 @@ function loginmessage(username){
     }
     return `${username} just logged in`
 }
-console.log(loginmessage("aishwarya"));
+console.log(loginmessage());
