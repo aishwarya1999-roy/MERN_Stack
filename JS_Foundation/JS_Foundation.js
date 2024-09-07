@@ -415,6 +415,6 @@ const course = {
 }
 
 console.log(course.coursename);
-const {instructor : } = course
+const {instructor : Teacher} = course
 console.log(instructor);
 
