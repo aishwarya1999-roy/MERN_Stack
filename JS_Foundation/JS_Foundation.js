@@ -515,5 +515,7 @@ function one(){
     const user_name = "Aishwarya"
     function two(){
         const web = "youtube.com"
+        console.log();
+        
     }
 }
