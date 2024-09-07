@@ -481,6 +481,6 @@ const user = {
 }
 
 function handleobjcet (anyobject){
-    console.log(`Username is ${} and `);
+    console.log(`Username is ${} and price is `);
     
 }
