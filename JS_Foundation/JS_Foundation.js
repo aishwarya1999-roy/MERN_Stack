@@ -526,3 +526,8 @@ console.log(addone(2))
 function addone(num){
     return num+1
 }
+
+console.log(addone(2))
+function addone(num){
+    return num+1
+}
