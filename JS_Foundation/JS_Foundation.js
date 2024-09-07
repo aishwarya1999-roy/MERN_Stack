@@ -442,6 +442,6 @@ function myname(){
     console.log("W");
     console.log("A");
     console.log("R");
-    console.log("R");
+    console.log("Y");
     
 }
