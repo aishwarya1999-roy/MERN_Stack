@@ -554,3 +554,9 @@ const chai = function(){
     console.log(this.username);
 }
 chai()
+
+const chai = function(){
+    let username = "Aishwarya"
+    console.log(this.username);
+}
+chai()
