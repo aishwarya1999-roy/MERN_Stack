@@ -92,7 +92,7 @@ console.log(Teacher);
 
 
 
-console.log("************ APIs *****************")
+//console.log("************ APIs *****************")
 
 // {
 //     "name" : "Aishw",
