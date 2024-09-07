@@ -528,6 +528,6 @@ function addone(num){
 }
 
 console.log(addone(2))
-function addtwo(num){
+const function addtwo(num){
     return num+1
 }
