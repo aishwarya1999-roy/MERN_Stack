@@ -557,6 +557,6 @@ console.log(Array.of(val1, val2, val3));
 
 const chai = () => {
     let username = "Aishwarya"
-    console.log(this.username);
+    console.log(this);
 }
 chai()
