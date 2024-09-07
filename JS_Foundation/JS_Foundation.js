@@ -461,7 +461,7 @@ console.log(Array.of(val1, val2, val3));
 // console.log("Result : ", res);
 
 function loginmessage(username){
-    if(!username){ // === undefined
+    if(!username){ // username === undefined
         console.log("ERROR!! Please Enter a Username!");
         return
     }
