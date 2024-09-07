@@ -436,5 +436,10 @@ console.log(Array.of(val1, val2, val3));
 
 function myname(){
     console.log("A");
+    console.log("A");
+    console.log("A");
+    console.log("A");
+    console.log("A");
+    console.log("A");
     
 }
