@@ -470,6 +470,6 @@ console.log(Array.of(val1, val2, val3));
 // console.log(loginmessage());
 
 
-function calculate(){
+function calculate(num1){
     return num1
 }
