@@ -480,6 +480,6 @@ const user = {
     price : '333',
 }
 
-function handleobjcet (){
-    
+function handleobjcet (anyo){
+
 }
