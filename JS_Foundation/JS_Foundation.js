@@ -499,11 +499,11 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log("************ Scopes *****************")
 
-if (true){
-    let a = 20
-    const b = 10
-    var c = 30
-}
+// if (true){
+//     let a = 20
+//     const b = 10
+//     var c = 30
+// }
 
 // console.log(a);
 // console.log(b);
