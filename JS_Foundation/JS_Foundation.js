@@ -421,7 +421,7 @@ console.log(Array.of(val1, val2, val3));
 // console.log("************ APIs *****************")
 
 {
-    "'"name"'" : "Aishw",
+    name: "Aishw",
     course : 
 }
 
