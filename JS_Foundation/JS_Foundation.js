@@ -473,4 +473,4 @@ console.log(Array.of(val1, val2, val3));
 function calculate(num1){
     return num1
 }
-console.log();
+console.log(calculate;
