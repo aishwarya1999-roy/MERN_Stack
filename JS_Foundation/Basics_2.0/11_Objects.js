@@ -89,3 +89,19 @@ const course = {
 console.log(course.coursename);
 const {instructor : Teacher} = course
 console.log(Teacher);
+
+
+
+// console.log("************ APIs *****************")
+
+// {
+//     "name" : "Aishw",
+//     "course" : "Python",
+//     "price" : "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
