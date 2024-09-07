@@ -454,7 +454,7 @@ console.log(Array.of(val1, val2, val3));
 // }
 function add_number(num1, num2){
     let res = num1+num2 
-    return num1+num2  
+    return res 
 }
 const res = add_number(6,4)
 console.log("Result : ", res);
