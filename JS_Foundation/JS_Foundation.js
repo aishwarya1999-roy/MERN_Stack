@@ -501,4 +501,5 @@ console.log(Array.of(val1, val2, val3));
 
 if (true){
     let a = 20
+    c
 }
