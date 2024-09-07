@@ -434,16 +434,16 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log("************ Functions *****************")
 
-function myname(){
-    console.log("A");
-    console.log("I");
-    console.log("S");
-    console.log("H");
-    console.log("W");
-    console.log("A");
-    console.log("R");
-    console.log("Y");
-    console.log("A"); 
-}
+// function myname(){
+//     console.log("A");
+//     console.log("I");
+//     console.log("S");
+//     console.log("H");
+//     console.log("W");
+//     console.log("A");
+//     console.log("R");
+//     console.log("Y");
+//     console.log("A"); 
+// }
 
-myname()
+// myname()
