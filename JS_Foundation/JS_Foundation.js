@@ -535,12 +535,22 @@ console.log(Array.of(val1, val2, val3));
 
 
 // console.log("************ Arrows *****************")
-const arrow_user = {
-    username : "Aish",
-    price : 999,
-    welcomeMessage : function(){
-        console.log(`${arrow_user.username}, welcome to our website`);
-    }
-}
+// const arrow_user = {
+//     username : "Aish",
+//     price : 999,
+//     welcomeMessage : function(){
+//         console.log(`${this.username}, welcome to our website`);
+//         console.log(this);
+//     }
+// }
 
-arrow_user.welcomeMessage()
+// arrow_user.welcomeMessage()
+// arrow_user.username = "Sam"
+// arrow_user.welcomeMessage()
+
+
+const chai = function(){
+    let username = "Aishwarya"
+    console.log(this.username);
+}
+chai()
