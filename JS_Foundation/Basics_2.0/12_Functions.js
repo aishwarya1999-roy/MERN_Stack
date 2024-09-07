@@ -55,8 +55,6 @@ handleobjcet({
     price : '199',
 })
 
-
-
 function reeturnarray(getarray){
     return getarray[0]
 }
