@@ -522,13 +522,13 @@ console.log(Array.of(val1, val2, val3));
 // }
 // one()
 
-console.log(addone(2))
-function addone(num){ //in this case you can call the function whereever you want, before or after
-    return num+1
-}
+// console.log(addone(2))
+// function addone(num){ //in this case you can call the function whereever you want, before or after
+//     return num+1
+// }
 
 
-const addtwo = function(num){ // in this case , funtion is acting like initiatizing to an object . so here you have to call it afterwords only
-    return num+1
-}
-console.log(addtwo(5))
+// const addtwo = function(num){ // in this case , funtion is acting like initiatizing to an object . so here you have to call it afterwords only
+//     return num+1
+// }
+// console.log(addtwo(5))
