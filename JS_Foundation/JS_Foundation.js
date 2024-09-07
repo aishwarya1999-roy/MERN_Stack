@@ -518,6 +518,6 @@ function one(){
         console.log(user_name);
     }
 
-    console.log(user_name);
+    console.log(web);
 }
 
