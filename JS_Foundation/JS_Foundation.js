@@ -527,7 +527,8 @@ function addone(num){ //in this case you can call the function whereever you wan
     return num+1
 }
 
-console.log(addtwo(5))
+
 const addtwo = function(num){ // in this case , funtion is acting like initiatizing to an object . so here you have to call it afterwords only
     return num+1
 }
+console.log(addtwo(5))
