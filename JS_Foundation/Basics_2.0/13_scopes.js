@@ -1,7 +1,7 @@
 console.log("************ Scopes *****************")
 // global scope, block scope
-// global 
-let a = 300
+
+let a = 300// global 
 if (true){ //block 
     let a = 20
     const b = 10
