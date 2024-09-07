@@ -462,7 +462,7 @@ console.log(Array.of(val1, val2, val3));
 
 function loginmessage(username){
     if(username === undefined){
-        console.log("ERROR!! please enter a username");
+        console.log("ERROR!! Please enter a username");
         return
     }
     return `${username} just logged in`
