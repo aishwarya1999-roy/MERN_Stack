@@ -475,19 +475,19 @@ console.log(Array.of(val1, val2, val3));
 // }
 // console.log(calculate(2,3,4,5,8,10));
 
-const user = {
-    username : "Aishwarya Roy",
-    price : '333',
-}
+// const user = {
+//     username : "Aishwarya Roy",
+//     price : '333',
+// }
 
-function handleobjcet (anyobject){
-    console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`);
-}
-handleobjcet(user)
-handleobjcet({
-    username : "Aishwarya",
-    price : '199',
-})
+// function handleobjcet (anyobject){
+//     console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`);
+// }
+// handleobjcet(user)
+// handleobjcet({
+//     username : "Aishwarya",
+//     price : '199',
+// })
 
 
 const newarray = [100,200,300]
