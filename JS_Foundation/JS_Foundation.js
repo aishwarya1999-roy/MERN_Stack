@@ -522,6 +522,7 @@ console.log(Array.of(val1, val2, val3));
 // }
 // one()
 
+addone()
 function addone(num){
     return num+1
 }
