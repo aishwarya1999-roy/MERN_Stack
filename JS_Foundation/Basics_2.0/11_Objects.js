@@ -31,7 +31,7 @@ js_user.greetingto = function(){
 console.log(js_user.greetingto());
 
 
-object singleton or using constructor
+//object singleton or using constructor
 
 const facebook = new Object() // singleton object 
 const facebook = {} // non singleton object
