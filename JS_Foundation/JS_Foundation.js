@@ -506,3 +506,5 @@ if (true){
 }
 
 console.log(a);
+console.log(a);
+console.log(a);
