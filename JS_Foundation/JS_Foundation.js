@@ -401,11 +401,11 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log(users[0].email);
 
-// console.log(facebook);
-// console.log(Object.keys(facebook));
-// console.log(Object.values(facebook));
-// console.log(Object.entries(facebook));
-// console.log(facebook.hasOwnProperty('isLogged') );
+console.log(facebook);
+console.log(Object.keys(facebook));
+console.log(Object.values(facebook));
+console.log(Object.entries(facebook));
+console.log(facebook.hasOwnProperty('isLogged') );
 
 
 const course = {
