@@ -495,3 +495,6 @@ console.log(Array.of(val1, val2, val3));
 // }
 // const newarray = [100,200,300]
 // console.log(reeturnarray(newarray));
+
+
+// console.log("************ Functions *****************")
