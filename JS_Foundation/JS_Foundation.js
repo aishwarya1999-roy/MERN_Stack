@@ -528,6 +528,6 @@ function addone(num){ //in this case you can call the function whereever you wan
 }
 
 console.log(addtwo(5))
-const addtwo = function(num){ // in this case , funtion is acting like 
+const addtwo = function(num){ // in this case , funtion is acting like initiatizing to an object . so 
     return num+1
 }
