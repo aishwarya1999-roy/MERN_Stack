@@ -543,4 +543,4 @@ const arrow_user = {
     }
 }
 
-log
+console.log();
