@@ -523,7 +523,7 @@ console.log(Array.of(val1, val2, val3));
 // one()
 
 console.log(addone(2))
-function addone(num){
+function addone(num){ //in this case you can 
     return num+1
 }
 
