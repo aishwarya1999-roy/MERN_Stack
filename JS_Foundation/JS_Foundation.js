@@ -406,3 +406,6 @@ console.log(Array.of(val1, val2, val3));
 // console.log(Object.values(facebook));
 // console.log(Object.entries(facebook));
 // console.log(facebook.hasOwnProperty('isLogged') );
+
+
+
