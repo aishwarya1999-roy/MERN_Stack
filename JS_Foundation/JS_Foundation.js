@@ -527,7 +527,7 @@ function addone(num){
     return num+1
 }
 
-console.log(addone(2))
+console.log(addtwo(2))
 const addtwo = function(num){
     return num+1
 }
