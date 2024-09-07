@@ -392,12 +392,12 @@ const regularUser = {
 // console.log(obj3);
 
 
-const users = [
-    {
-        id : 1,
-        "email" : "hh@gmail.com"
-    }
-]
+// const users = [
+//     {
+//         id : 1,
+//         "email" : "hh@gmail.com"
+//     }
+// ]
 
 // console.log(users[0].email);
 
