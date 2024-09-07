@@ -476,6 +476,6 @@ function calculate(...num1){
 console.log(calculate(2,3,4,5,8,10));
 
 const user = {
-    username : "Aishwaray Programming",
+    username : "Aishwarya Roy",
     price : '333',
 }
