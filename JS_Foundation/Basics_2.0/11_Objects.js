@@ -92,13 +92,13 @@ console.log(Teacher);
 
 
 
-// console.log("************ APIs *****************")
+console.log("************ APIs *****************")
 
-// {
-//     "name" : "Aishw",
-//     "course" : "Python",
-//     "price" : "free"
-// }
+{
+    "name" : "Aishw",
+    "course" : "Python",
+    "price" : "free"
+}
 
 [
     {},
