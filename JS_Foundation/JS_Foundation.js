@@ -491,4 +491,4 @@ handleobjcet({
 
 
 const newarray = [100,200,300]
-function reeturnarray
+function reeturnarray():
