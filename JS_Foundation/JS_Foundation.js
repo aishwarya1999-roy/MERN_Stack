@@ -501,6 +501,6 @@ console.log(Array.of(val1, val2, val3));
 
 if (true){
     let a = 20
-    const = 10
-    
+    const b = 10
+
 }
