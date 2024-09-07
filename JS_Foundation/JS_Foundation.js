@@ -408,7 +408,7 @@ console.log(Object.entries(facebook));
 console.log(facebook.hasOwnProperty('isLogged') );
 
 
-const course = {
+const course = {L
     coursename : "Hindi",
     price : '333',
     instructor : "aishwraya"
