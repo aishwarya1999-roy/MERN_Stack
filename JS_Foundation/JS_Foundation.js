@@ -460,11 +460,11 @@ console.log(Array.of(val1, val2, val3));
 // const res = add_number(6,4)
 // console.log("Result : ", res);
 
-function loginmessage(username ){ //default values - username = "Sam"
-    if(!username){ // username === undefined
-        console.log("ERROR!! Please Enter a Username!");
-        return
-    }
-    return `${username} just logged in`
-}
-console.log(loginmessage());
+// function loginmessage(username ){ //default values - username = "Sam"
+//     if(!username){ // username === undefined
+//         console.log("ERROR!! Please Enter a Username!");
+//         return
+//     }
+//     return `${username} just logged in`
+// }
+// console.log(loginmessage());
