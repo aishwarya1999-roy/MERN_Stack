@@ -520,4 +520,4 @@ function one(){
     console.log(web);
     two()
 }
-
+one()
