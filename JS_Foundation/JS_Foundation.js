@@ -532,3 +532,4 @@ console.log(Array.of(val1, val2, val3));
 //     return num+1
 // }
 // console.log(addtwo(5))
+
