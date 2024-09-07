@@ -418,4 +418,6 @@ console.log(Array.of(val1, val2, val3));
 // const {instructor : Teacher} = course
 // console.log(Teacher);
 
+// APIs
+
 
