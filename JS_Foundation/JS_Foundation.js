@@ -512,7 +512,7 @@ console.log(Array.of(val1, val2, val3));
 //console.log(c); // here c is printing, as var does not care about scope
 
 function one(){
-    const user_name = "Aishwarya"
+    const user_name = "Aishwarya from One"
     function two(){
         const web = "youtube.com"
         console.log(user_name);
