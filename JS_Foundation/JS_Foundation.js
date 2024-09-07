@@ -481,6 +481,6 @@ const user = {
 }
 
 function handleobjcet (anyobject){
-    console.log();
+    console.log(``);
     
 }
