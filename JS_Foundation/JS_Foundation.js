@@ -538,7 +538,7 @@ console.log(Array.of(val1, val2, val3));
 const arrow_user = {
     username : "Aish",
     price : 999,
-    welcomeMessage
+    welcomeMessage : function
 
 
 
