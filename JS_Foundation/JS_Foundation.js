@@ -452,4 +452,4 @@ console.log(Array.of(val1, val2, val3));
 function add_number(num1, num2){
     console.log(num1+num2);   
 }
-add_number(2,4)
+add_number(2,"4")
