@@ -534,5 +534,5 @@ console.log(Array.of(val1, val2, val3));
 // console.log(addtwo(5))
 
 
-// console.log("************ Scopes *****************")
+// console.log("************ Arrows *****************")
 
