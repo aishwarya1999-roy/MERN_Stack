@@ -541,7 +541,4 @@ const arrow_user = {
     welcomeMessage : function(){
         console.log(`${this.username}, welcome to our website`);
     }
-
-
-
 }
