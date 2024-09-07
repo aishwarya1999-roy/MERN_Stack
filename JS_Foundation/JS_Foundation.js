@@ -495,4 +495,4 @@ function reeturnarray(getarray){
     return getarray[0]
 }
 const newarray = [100,200,300]
-console.log(reeturnarray(newarray));
+console.log(reeturnarray([100,200,300]));
