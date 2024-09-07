@@ -408,14 +408,14 @@ console.log(Array.of(val1, val2, val3));
 // console.log(facebook.hasOwnProperty('isLogged') );
 
 
-const course = {
-    coursename : "Python Programming",
-    price : '333',
-    instructor : "aishwraya"
-}
+// const course = {
+//     coursename : "Python Programming",
+//     price : '333',
+//     instructor : "aishwraya"
+// }
 
-console.log(course.coursename);
-const {instructor : Teacher} = course
-console.log(Teacher);
+// console.log(course.coursename);
+// const {instructor : Teacher} = course
+// console.log(Teacher);
 
 
