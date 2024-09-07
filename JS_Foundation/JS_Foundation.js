@@ -453,8 +453,8 @@ console.log(Array.of(val1, val2, val3));
 //     console.log(num1+num2);   
 // }
 function add_number(num1, num2){
-        
-        return num1+num2  
+
+    return num1+num2  
     }
 const res = add_number(6,4)
 console.log("Result : ", res);
