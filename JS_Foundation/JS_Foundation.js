@@ -497,4 +497,4 @@ console.log(Array.of(val1, val2, val3));
 // console.log(reeturnarray(newarray));
 
 
-// console.log("************ Functions *****************")
+// console.log("************ Scopes *****************")
