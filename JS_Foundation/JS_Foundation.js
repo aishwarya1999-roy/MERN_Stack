@@ -507,4 +507,4 @@ if (true){
 
 // console.log(a);
 // console.log(b);
-console.log(c); // here c is printing, as var does not care about scope
+//console.log(c); // here c is printing, as var does not care about scope
