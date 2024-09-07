@@ -476,7 +476,7 @@ function calculate(...num1){
 console.log(calculate(2,3,4,5,8,10));
 
 const user = {
-    coursename : "Python Programming",
+    username : "Python Programming",
     price : '333',
     instructor : "aishwraya"
 }
