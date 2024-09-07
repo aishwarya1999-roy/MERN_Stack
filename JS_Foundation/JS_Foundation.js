@@ -490,4 +490,4 @@ handleobjcet({
 })
 
 
-const 
+const newarray = [100,200,300]
