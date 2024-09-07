@@ -416,5 +416,5 @@ const course = {
 
 console.log(course.coursename);
 const {instructor} = course
-console.log();
+console.log(instructor);
 
