@@ -555,7 +555,7 @@ console.log(Array.of(val1, val2, val3));
 // }
 // chai()
 
-const chai = () => { //arrow functions
+const chai = () => { //arrow function
     let username = "Aishwarya"
     console.log(this);
 }
