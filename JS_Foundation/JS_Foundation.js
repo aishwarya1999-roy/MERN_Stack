@@ -463,4 +463,5 @@ console.log(Array.of(val1, val2, val3));
 function loginmessage(username){
     return `${username} just logged in`
 }
-log loginmessage("aishwarya")
+console.log();
+ loginmessage("aishwarya")
