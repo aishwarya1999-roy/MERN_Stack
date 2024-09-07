@@ -511,6 +511,6 @@ console.log(Array.of(val1, val2, val3));
 // console.log(b);
 //console.log(c); // here c is printing, as var does not care about scope
 
-funtion one(){
+function one(){
 
 }
