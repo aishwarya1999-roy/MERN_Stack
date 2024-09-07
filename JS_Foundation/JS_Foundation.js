@@ -413,3 +413,5 @@ const course = {
     price : '333',
     instructor : "aishwraya"
 }
+
+console.log();
