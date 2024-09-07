@@ -414,4 +414,4 @@ const course = {
     instructor : "aishwraya"
 }
 
-console.log();
+console.log(course);
