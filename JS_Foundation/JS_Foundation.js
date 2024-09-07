@@ -453,4 +453,4 @@ function add_number(num1, num2){
     console.log(num1+num2);   
 }
 const res = add_number("a",4)
-console.log();
+console.log("");
