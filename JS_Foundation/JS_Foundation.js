@@ -486,5 +486,5 @@ function handleobjcet (anyobject){
 handleobjcet(user)
 handleobjcet({
     username : "Aishwarya Roy",
-    price : '333',
+    price : '199',
 })
