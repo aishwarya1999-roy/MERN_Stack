@@ -401,7 +401,7 @@ const users = [
 
 // console.log(users[0].email);
 
-console.log(facebook);
+// console.log(facebook);
 // console.log(Object.keys(facebook));
 // console.log(Object.values(facebook));
 // console.log(Object.entries(facebook));
