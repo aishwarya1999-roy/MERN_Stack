@@ -495,4 +495,3 @@ function reeturnarray(getarray){
     return getarray[1]
 }
 console.log();
- reeturnarray(newarray)
