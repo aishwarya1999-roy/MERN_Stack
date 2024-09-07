@@ -471,6 +471,6 @@ console.log(Array.of(val1, val2, val3));
 
 
 function calculate(v1,v2, ...num1){
-    return num1
+    return v1
 }
 console.log(calculate(2,3,4,5,8,10));
