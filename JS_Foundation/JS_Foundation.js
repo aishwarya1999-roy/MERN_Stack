@@ -439,7 +439,7 @@ function myname(){
     console.log("I");
     console.log("S");
     console.log("H");
-    console.log("A");
+    console.log("W");
     console.log("A");
     
 }
