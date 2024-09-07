@@ -1,6 +1,6 @@
 console.log("************ Scopes *****************")
-global scope, block scope
-global 
+// global scope, block scope
+// global 
 let a = 300
 if (true){ //block 
     let a = 20
