@@ -449,6 +449,6 @@ console.log(Array.of(val1, val2, val3));
 // myname()
 
 
-Function add_number(){
-    
+function add_number(){
+
 }
