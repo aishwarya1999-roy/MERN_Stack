@@ -500,7 +500,7 @@ console.log(Array.of(val1, val2, val3));
 // console.log("************ Scopes *****************")
 //global scope, block scope
 //global 
-
+let a = 300
 // if (true){ //block 
 //     let a = 20
 //     const b = 10
