@@ -1,4 +1,3 @@
-
 // console.log("************ Scopes *****************")
 //global scope, block scope
 //global 
