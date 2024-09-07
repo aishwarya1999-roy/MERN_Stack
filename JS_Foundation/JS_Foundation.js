@@ -494,5 +494,5 @@ console.log(Array.of(val1, val2, val3));
 function reeturnarray(getarray){
     return getarray[0]
 }
-const newarray = [100,200,300]
+// const newarray = [100,200,300]
 console.log(reeturnarray([100,200,300]));
