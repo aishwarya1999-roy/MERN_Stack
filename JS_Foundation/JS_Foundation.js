@@ -579,11 +579,11 @@ console.log(Array.of(val1, val2, val3));
 // (function defination)(execution call)
 
 // Named IIFE
-(function iffe(){
-    console.log("DB CONNECTED"); 
-})();
+// (function iffe(){
+//     console.log("DB CONNECTED"); 
+// })();
 
-// Unamed IIFE
-((name) => {
-    console.log(`DB CONNECTED TWO ${name}`); 
-})("Aishwarya");
+// // Unamed IIFE
+// ((name) => {
+//     console.log(`DB CONNECTED TWO ${name}`); 
+// })("Aishwarya");
