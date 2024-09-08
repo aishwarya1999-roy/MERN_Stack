@@ -609,3 +609,5 @@ console.log(Array.of(val1, val2, val3));
     result = 15
 4. result go to gloabl execution 
 */
+
+
