@@ -579,6 +579,6 @@ console.log(Array.of(val1, val2, val3));
 
 (function iffe(){
     console.log("DB CONNECTED"); 
-})()
+})() //
 
 // (function defination)(execution call)
