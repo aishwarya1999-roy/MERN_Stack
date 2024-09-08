@@ -632,3 +632,4 @@ console.log(Array.of(val1, val2, val3));
 
 // const balance = 300
 // if (balance>200) console.log("Greater than");
+
