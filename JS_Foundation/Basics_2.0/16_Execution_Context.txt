@@ -1,0 +1,20 @@
+// console.log("************ Javascript execution context *****************")
+
+//1. global EC
+//2. function EC
+//3. Eval EC
+
+/*
+1. gloabl Execution -> this
+2. memory phase -> 
+    val1 -> undefined
+    val2 -> undefined
+    addnum -> defination
+    result -> undefined
+3. execution phase
+    val1 <- 10
+    val2 <- 5
+    addnum -> new variable enviroment + Execution therad (again memory phase + Execution phase)
+    result = 15
+4. result go to gloabl execution 
+*/
