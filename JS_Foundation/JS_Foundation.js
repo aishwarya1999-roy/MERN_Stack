@@ -649,5 +649,11 @@ switch(month){
     case 1:
         console.log("Jan");
         break;
+    case 1:
+        console.log("Jan");
+        break;
+    case 1:
+        console.log("Jan");
+        break;
         
 }
