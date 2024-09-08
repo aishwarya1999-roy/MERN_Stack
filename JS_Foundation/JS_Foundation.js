@@ -671,4 +671,4 @@ console.log(Array.of(val1, val2, val3));
 // false, 0, -0, BigInt 0n, "", undefined, null, NaN
 
 //truthy values
-// "0", 'false'," ", [], {}, 
+// "0", 'false'," ", [], {}, funtion
