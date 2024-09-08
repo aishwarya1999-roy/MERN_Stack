@@ -688,5 +688,5 @@ console.log(Array.of(val1, val2, val3));
 // condition ? true : false 
 
 const teaprice = 100
-teaprice>=80 ? console.log("Lessthan 80");console.log("Lessthan 80")
+teaprice>=80 ? console.log("Lessthan 80") : console.log("Lessthan 80")
 
