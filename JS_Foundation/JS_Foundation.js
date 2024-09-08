@@ -618,28 +618,28 @@ const isloggedIn = true
 if (isloggedIn){
 }
 //== for checking condition, === check condition with type 
-if (2 === "2"){
-    console.log("Yes");
-}
+// if (2 === "2"){
+//     console.log("Yes");
+// }
 
-const temp = 32
-if (temp<50){
-    console.log("Less than 40");
-} else{
-    console.log("More than 40");
-}
+// const temp = 32
+// if (temp<50){
+//     console.log("Less than 40");
+// } else{
+//     console.log("More than 40");
+// }
 
-const balance = 300
-if (balance>200) console.log("Greater than");
+// const balance = 300
+// if (balance>200) console.log("Greater than");
 
-const tempu = 25
-if (tempu>50 && tempu<60){
-    console.log("More than 50 & Less than 60");
-} else if (tempu>20 && tempu%5 == 0) {
-    console.log("More than 20");
-}else{
-    console.log("less than 20");
-}
+// const tempu = 25
+// if (tempu>50 && tempu<60){
+//     console.log("More than 50 & Less than 60");
+// } else if (tempu>20 && tempu%5 == 0) {
+//     console.log("More than 20");
+// }else{
+//     console.log("less than 20");
+// }
 
 // Switch case
 
