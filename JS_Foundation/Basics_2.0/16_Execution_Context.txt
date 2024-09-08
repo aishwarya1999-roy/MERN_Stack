@@ -17,4 +17,3 @@
     addnum -> new variable enviroment + Execution therad (again memory phase + Execution phase)
     result = 15
 4. result go to gloabl execution 
-*/
