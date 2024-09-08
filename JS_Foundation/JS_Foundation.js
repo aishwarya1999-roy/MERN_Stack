@@ -633,7 +633,7 @@ console.log(Array.of(val1, val2, val3));
 // const balance = 300
 // if (balance>200) console.log("Greater than");
 
-const temp = 21
+const temp = 55
 if (temp>50 && temp<60){
     console.log("More than 50 & Less than 60");
 } else if (temp>20) {
