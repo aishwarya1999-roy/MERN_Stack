@@ -575,7 +575,7 @@ console.log(Array.of(val1, val2, val3));
 
 
 // console.log("************ Immediately Invoked Function Expression *****************")
-
+// (function defination)(execution call)
 // Named IIFE
 (function iffe(){
     console.log("DB CONNECTED"); 
