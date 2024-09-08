@@ -1,4 +1,4 @@
-************ Javascript execution context *****************")
+************ Javascript execution context *****************"
 
 1. global EC
 2. function EC
