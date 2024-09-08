@@ -578,6 +578,5 @@ console.log(Array.of(val1, val2, val3));
 
 
 function iffe(num1,num2){
-    console.log("DB CONNECTED");
-    
+    console.log("DB CONNECTED"); 
 }
