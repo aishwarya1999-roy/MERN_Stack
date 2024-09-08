@@ -584,5 +584,5 @@ console.log(Array.of(val1, val2, val3));
 // (function defination)(execution call)
 
 ((name) => {
-    console.log(`DB CONNECTED TWO $`); 
+    console.log(`DB CONNECTED TWO ${name}`); 
 })();
