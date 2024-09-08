@@ -687,4 +687,5 @@ console.log(Array.of(val1, val2, val3));
 //Terniary operator
 // condition ? true : false 
 
-const teaprice
+const teaprice = 100
+ic
