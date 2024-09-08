@@ -634,7 +634,7 @@ console.log(Array.of(val1, val2, val3));
 // if (balance>200) console.log("Greater than");
 
 const temp = 21
-if (temp>50 && ){
+if (temp>50 && temp){
     console.log("More than 40");
 } else if (temp>20) {
     console.log("More than 20");
