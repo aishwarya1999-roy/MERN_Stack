@@ -644,7 +644,7 @@ console.log(Array.of(val1, val2, val3));
 
 // Switch case
 
-const month = 3
+const month = 6
 switch(month){
     case 1:
         console.log("Jan");
