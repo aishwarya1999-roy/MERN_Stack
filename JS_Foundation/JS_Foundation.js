@@ -661,5 +661,4 @@ switch(month){
     case 5:
         console.log("May");
         break;
-        
 }
