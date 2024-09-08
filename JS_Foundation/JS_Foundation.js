@@ -577,6 +577,6 @@ console.log(Array.of(val1, val2, val3));
 // console.log("************ Immediately Invoked Function Expression *****************")
 
 
-function iffe(num,num2){
+function iffe(num1,num2){
     return num1+num2
 }
