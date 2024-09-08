@@ -601,4 +601,4 @@ console.log(Array.of(val1, val2, val3));
     val2 -> undefined
     addnum -> defination
     result -> undefined
-3. 
+3. execution phase
