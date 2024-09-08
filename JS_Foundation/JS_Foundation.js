@@ -581,7 +581,7 @@ console.log(Array.of(val1, val2, val3));
     console.log("DB CONNECTED"); 
 })(); //we use IIFE to avoid global scope pollution
 
-// (function defination)(execution call)
+
 // Unamed IIFE
 
 ((name) => {
