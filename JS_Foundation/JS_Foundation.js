@@ -662,5 +662,6 @@ switch(month){
         console.log("May");
         break;
     default:
-        log
+        console.log();
+        
 }
