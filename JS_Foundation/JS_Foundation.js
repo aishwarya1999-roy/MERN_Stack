@@ -663,5 +663,5 @@ switch(month){
         break;
     default:
         console.log("Deafult");
-        break
+        break;
 }
