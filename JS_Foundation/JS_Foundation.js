@@ -668,4 +668,4 @@ console.log(Array.of(val1, val2, val3));
 
 
 // falsy value
-false, 0, -0, BigInt 0n, "", undefined, null, NaN
+// false, 0, -0, BigInt 0n, "", undefined, null, NaN
