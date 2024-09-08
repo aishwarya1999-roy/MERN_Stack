@@ -679,4 +679,5 @@ console.log(Array.of(val1, val2, val3));
 let val1;
 val1 = 5??10
 val2 = null??10
+val2 = null??10
 console.log(val1);
