@@ -579,6 +579,6 @@ console.log(Array.of(val1, val2, val3));
 
 (function iffe(){
     console.log("DB CONNECTED"); 
-})() //to avoid global scope p
+})() //to avoid global scope pollution
 
 // (function defination)(execution call)
