@@ -605,4 +605,4 @@ console.log(Array.of(val1, val2, val3));
     val1 <- 10
     val2 <- 5
     addnum -> new variable enviroment + Execution therad (again memory phase + Execution phase)
-    
+    result = 
