@@ -2,13 +2,13 @@
 
 //IF
 
-// const isloggedIn = true
-// if (isloggedIn){
-// }
-// == for checking condition, === check condition with type 
-// if (2 === "2"){
-//     console.log("Yes");
-// }
+const isloggedIn = true
+if (isloggedIn){
+}
+== for checking condition, === check condition with type 
+if (2 === "2"){
+    console.log("Yes");
+}
 
 // const temp = 32
 // if (temp<50){
