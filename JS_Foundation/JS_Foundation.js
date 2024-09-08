@@ -581,4 +581,4 @@ console.log(Array.of(val1, val2, val3));
     console.log("DB CONNECTED"); 
 })()
 
-(function defination)(execution call)
+// (function defination)(execution call)
