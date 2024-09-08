@@ -574,6 +574,6 @@ console.log(Array.of(val1, val2, val3));
 
 
 
-// console.log("************ Immediately Invoked Function  *****************")
+// console.log("************ Immediately Invoked Function Expression *****************")
 
 
