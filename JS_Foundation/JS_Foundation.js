@@ -614,9 +614,9 @@ console.log(Array.of(val1, val2, val3));
 
 //IF
 
-const isloggedIn = true
-if (isloggedIn){
-}
+// const isloggedIn = true
+// if (isloggedIn){
+// }
 //== for checking condition, === check condition with type 
 // if (2 === "2"){
 //     console.log("Yes");
