@@ -681,3 +681,5 @@ val1 = 5??10
 val2 = null??10
 val3 = undefined??10
 console.log(val1);
+console.log(val1);
+console.log(val1);
