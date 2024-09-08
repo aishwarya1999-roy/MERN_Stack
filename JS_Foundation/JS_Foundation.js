@@ -597,5 +597,5 @@ console.log(Array.of(val1, val2, val3));
 
 1. gloabl Execution -> this
 2. memory phase -> 
-    val -> undefined
-    val -> undefined
+    val1 -> undefined
+    val2 -> undefined
