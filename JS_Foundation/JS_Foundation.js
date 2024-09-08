@@ -638,4 +638,4 @@ if (temp>50){
     console.log("Less than 40");
 } else if (temp>20) {
     console.log("More than 20");
-}
+}else{}
