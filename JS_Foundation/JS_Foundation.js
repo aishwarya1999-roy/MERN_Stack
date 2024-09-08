@@ -635,7 +635,7 @@ console.log(Array.of(val1, val2, val3));
 
 const temp = 5
 if (temp>50){
-    console.log("Less than 40");
+    console.log("More than 40");
 } else if (temp>20) {
     console.log("More than 20");
 }else{
