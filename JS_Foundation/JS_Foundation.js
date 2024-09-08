@@ -688,3 +688,6 @@ console.log(Array.of(val1, val2, val3));
 
 // const teaprice = 100
 // teaprice<=80 ? console.log("Less than 80") : console.log("Grater than 80")
+
+
+// console.log("************ Control flow *****************")
