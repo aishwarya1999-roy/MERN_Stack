@@ -582,3 +582,4 @@ console.log(Array.of(val1, val2, val3));
 })() //we use IIFE to avoid global scope pollution
 
 // (function defination)(execution call)
+
