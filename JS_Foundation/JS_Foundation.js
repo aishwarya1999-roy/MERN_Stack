@@ -641,3 +641,6 @@ console.log(Array.of(val1, val2, val3));
 // }else{
 //     console.log("less than 20");
 // }
+
+// Switch case
+
