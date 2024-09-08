@@ -687,4 +687,4 @@ console.log(Array.of(val1, val2, val3));
 //Terniary operator
 // condition ? true : false 
 
-const 
+const price
