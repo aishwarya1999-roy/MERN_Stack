@@ -595,4 +595,4 @@ console.log(Array.of(val1, val2, val3));
 //2. function EC
 //3. Eval EC
 
-1. gloabl 
+1. gloabl Execution -> this
