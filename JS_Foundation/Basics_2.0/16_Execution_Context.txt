@@ -1,7 +1,7 @@
 // console.log("************ Javascript execution context *****************")
 
-//1. global EC
-//2. function EC
+1. global EC
+2. function EC
 3. Eval EC
 
 
