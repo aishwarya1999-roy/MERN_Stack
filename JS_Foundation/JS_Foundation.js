@@ -674,4 +674,4 @@ console.log(Array.of(val1, val2, val3));
 // "0", 'false'," ", [], {}, funtion(){}, 
 
 // && , || - logical operator
-// nullish coalescing operator (??): 
+// nullish coalescing operator (??): null undefined
