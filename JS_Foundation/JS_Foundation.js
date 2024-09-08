@@ -655,5 +655,11 @@ switch(month){
     case 3:
         console.log("Mar");
         break;
+    case 3:
+        console.log("Mar");
+        break;
+    case 3:
+        console.log("Mar");
+        break;
         
 }
