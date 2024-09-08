@@ -607,3 +607,4 @@ console.log(Array.of(val1, val2, val3));
     addnum -> new variable enviroment + Execution therad (again memory phase + Execution phase)
     result = 15
 4. result go to gloabl execution 
+*/
