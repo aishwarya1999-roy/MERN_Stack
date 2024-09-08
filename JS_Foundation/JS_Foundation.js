@@ -676,7 +676,6 @@ console.log(Array.of(val1, val2, val3));
 // && , || - logical operator
 
 // nullish coalescing operator (??): null undefined
-
 // let val1;
 // val1 = 5??10
 // val2 = null??10
