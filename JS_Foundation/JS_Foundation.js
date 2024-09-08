@@ -579,6 +579,6 @@ console.log(Array.of(val1, val2, val3));
 
 (function iffe(){
     console.log("DB CONNECTED"); 
-})() //we use IFto avoid global scope pollution
+})() //we use Ito avoid global scope pollution
 
 // (function defination)(execution call)
