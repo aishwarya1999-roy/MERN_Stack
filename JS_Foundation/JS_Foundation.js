@@ -599,3 +599,6 @@ console.log(Array.of(val1, val2, val3));
 2. memory phase -> 
     val1 -> undefined
     val2 -> undefined
+    addnum -> defination
+    result -> undefined
+3. 
