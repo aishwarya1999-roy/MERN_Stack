@@ -650,7 +650,7 @@ switch(month){
         console.log("Jan");
         break;
     case 2:
-        console.log("Jan");
+        console.log("Feb");
         break;
     case 3:
         console.log("Jan");
