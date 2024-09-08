@@ -583,6 +583,7 @@ console.log(Array.of(val1, val2, val3));
 
 // (function defination)(execution call)
 // Named IIFE
+
 ((name) => {
     console.log(`DB CONNECTED TWO ${name}`); 
 })("Aishwarya");
