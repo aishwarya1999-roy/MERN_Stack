@@ -636,7 +636,7 @@ console.log(Array.of(val1, val2, val3));
 const temp = 17
 if (temp>50 && temp<60){
     console.log("More than 50 & Less than 60");
-} else if (temp>20 || temp<15) {
+} else if (temp>20 || temp<30) {
     console.log("More than 20");
 }else{
     console.log("less than 20");
