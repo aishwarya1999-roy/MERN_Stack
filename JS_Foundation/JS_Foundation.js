@@ -582,7 +582,6 @@ console.log(Array.of(val1, val2, val3));
     console.log("DB CONNECTED"); 
 })();
 
-
 // Unamed IIFE
 ((name) => {
     console.log(`DB CONNECTED TWO ${name}`); 
