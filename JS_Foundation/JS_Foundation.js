@@ -576,7 +576,7 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log("************ Immediately Invoked Function Expression *****************")
 
-
+// Named IIFE
 (function iffe(){
     console.log("DB CONNECTED"); 
 })(); //we use IIFE to avoid global scope pollution
