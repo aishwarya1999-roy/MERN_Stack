@@ -694,6 +694,7 @@ console.log(Array.of(val1, val2, val3));
 
 
 // for loop
+ar
 for (let i = 0; i < array.length; i++) {
     const element = array[i];
     
