@@ -74,5 +74,5 @@ console.log(val3);
 //Terniary operator
 // condition ? true : false 
 
-// const teaprice = 100
-// teaprice<=80 ? console.log("Less than 80") : console.log("Grater than 80")
+const teaprice = 100
+teaprice<=80 ? console.log("Less than 80") : console.log("Grater than 80")
