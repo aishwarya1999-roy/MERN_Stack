@@ -5,7 +5,7 @@
 const isloggedIn = true
 if (isloggedIn){
 }
-== for checking condition, === check condition with type 
+//== for checking condition, === check condition with type 
 if (2 === "2"){
     console.log("Yes");
 }
