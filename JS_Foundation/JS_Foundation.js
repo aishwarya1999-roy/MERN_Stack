@@ -672,3 +672,5 @@ console.log(Array.of(val1, val2, val3));
 
 //truthy values
 // "0", 'false'," ", [], {}, funtion(){}, 
+
+// && , || - logical operator
