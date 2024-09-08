@@ -21,9 +21,9 @@ const balance = 300
 if (balance>200) console.log("Greater than");
 
 const tempu = 25
-if (tempu>50 && temp<60){
+if (tempu>50 && tempu<60){
     console.log("More than 50 & Less than 60");
-} else if (temp>20 && temp%5 == 0) {
+} else if (tempu>20 && temp%5 == 0) {
     console.log("More than 20");
 }else{
     console.log("less than 20");
