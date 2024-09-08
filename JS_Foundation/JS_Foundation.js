@@ -603,3 +603,4 @@ console.log(Array.of(val1, val2, val3));
     result -> undefined
 3. execution phase
     val1 <- 10
+    val1 <- 10
