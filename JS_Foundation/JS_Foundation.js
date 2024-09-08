@@ -591,4 +591,4 @@ console.log(Array.of(val1, val2, val3));
 
 // console.log("************ Javascript execution context *****************")
 
-//1. global 
+//1. global EC
