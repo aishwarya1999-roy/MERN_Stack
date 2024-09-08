@@ -639,5 +639,5 @@ if (temp>50){
 } else if (temp>20) {
     console.log("More than 20");
 }else{
-    console.log("More than 20");
+    console.log("More than 10");
 }
