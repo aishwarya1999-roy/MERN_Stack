@@ -17,11 +17,11 @@ console.log("************ Loops *****************")
 // }
 
 //Do-while
-let j = 13
-do {
-    console.log(`I = ${j}`);
-    j++
-}while (j<=10);
+// let j = 13
+// do {
+//     console.log(`I = ${j}`);
+//     j++
+// }while (j<=10);
 
 //for of
 
