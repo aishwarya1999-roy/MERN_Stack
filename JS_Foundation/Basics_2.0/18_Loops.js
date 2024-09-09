@@ -75,3 +75,5 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 coding.forEach(function(item) {
     console.log(item);
 });
+
+coding.
