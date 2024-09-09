@@ -31,6 +31,6 @@ for (const i of arr) {
 }
 
 const greet = "Hello Aishwarya"
-for (const i of arr) {
+for (const i of greet) {
     console.log(i);
 }
