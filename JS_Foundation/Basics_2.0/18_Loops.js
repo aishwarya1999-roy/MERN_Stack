@@ -47,10 +47,10 @@ console.log("************ Loops *****************")
 //     console.log(key); 
 // }
 
-// const js_user = {
-//     "name" : "Aish",
-//     age : 25,
-//     City : "Kolkata",
-//     myst : "MyKey1",
-//     isloggin : false
-// }
+const js_user = {
+    "name" : "Aish",
+    age : 25,
+    City : "Kolkata",
+    myst : "MyKey1",
+    isloggin : false
+}
