@@ -25,10 +25,10 @@ console.log("************ Loops *****************")
 
 //for of
 
-const arr = [1,2,3,5,6]
-for (const i of arr) {
-    console.log(i);
-}
+// const arr = [1,2,3,5,6]
+// for (const i of arr) {
+//     console.log(i);
+// }
 
 const greet = "Hello Aishwarya"
 for (const i of greet) {
