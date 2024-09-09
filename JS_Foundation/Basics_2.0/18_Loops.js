@@ -82,7 +82,7 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 const mycoding = [
     {
         name : "javascript",
-        namefile : "js"
+        namefile : ".js"
     },
     {
         name : "Python",
