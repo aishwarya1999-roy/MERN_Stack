@@ -37,4 +37,4 @@ console.log("************ Loops *****************")
 
 //Map
 
-const newmap = new mao
+const newmap = new Map()
