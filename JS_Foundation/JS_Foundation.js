@@ -709,5 +709,5 @@ console.log(Array.of(val1, val2, val3));
 let i = 15
 do {
     console.log(`I = ${i}`);
-    i+=2
+    i++
 }while (i<=10);
