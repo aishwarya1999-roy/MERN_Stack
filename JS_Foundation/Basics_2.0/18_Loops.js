@@ -55,5 +55,6 @@ const for_in_user = {
 }
 
 for (const key in for_in_user) {
-    log
+    console.log();
+    
 }
