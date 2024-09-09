@@ -64,3 +64,4 @@ console.log("************ Loops *****************")
 //     console.log(programming[i]);
 // }
 
+//for each
