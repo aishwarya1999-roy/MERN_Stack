@@ -76,6 +76,8 @@ coding.forEach(function(item) {
     console.log(item);
 });
 
-coding.forEach( item 
+coding.forEach( item => {
+    
+}
 
 )
