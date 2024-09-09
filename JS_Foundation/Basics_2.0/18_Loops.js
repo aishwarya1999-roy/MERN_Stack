@@ -48,7 +48,7 @@ console.log("************ Loops *****************")
 // }
 
 const for_in_user = {
-    "name" : "Aish",
+    "name : "Aish",
     age : 25,
     City : "Kolkata",
     myst : "MyKey1",
