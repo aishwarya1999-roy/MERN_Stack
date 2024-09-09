@@ -93,7 +93,7 @@ const mycoding = [
     {
         name : "C Prgramming",
         extName : ".cpp",
-        no_of_code : 5
+        no_of_code : 2
     }    
 ]
 
