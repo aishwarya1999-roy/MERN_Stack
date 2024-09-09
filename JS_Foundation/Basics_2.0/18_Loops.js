@@ -91,6 +91,5 @@ const mycoding = [
     {
         name : "Python",
         extName : ".py"
-    },
-    
+    },    
 ]
