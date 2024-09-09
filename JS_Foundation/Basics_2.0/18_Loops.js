@@ -34,3 +34,7 @@ console.log("************ Loops *****************")
 // for (const i of greet) {
 //     console.log(i);
 // }
+
+//Map
+
+const newmap = new mao
