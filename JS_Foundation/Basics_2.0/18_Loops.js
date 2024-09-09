@@ -88,7 +88,7 @@ const mycoding = [
     {
         name : "Python",
         extName : ".py",
-        no_of_code : 5
+        no_of_code : 10
     },
     {
         name : "C Prgramming",
