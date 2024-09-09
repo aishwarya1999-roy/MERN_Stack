@@ -80,6 +80,3 @@ coding.forEach((item) => {
     console.log(item);
 });
 
-array.forEach(element => {
-    
-});
