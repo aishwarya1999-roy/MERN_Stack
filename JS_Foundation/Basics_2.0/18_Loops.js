@@ -78,5 +78,4 @@ coding.forEach(function(item) {
 
 coding.forEach( item => {
     console.log(item);
-}
-)
+})
