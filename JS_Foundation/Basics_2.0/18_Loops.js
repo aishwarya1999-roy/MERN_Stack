@@ -3,11 +3,11 @@ console.log("************ Loops *****************")
 
 
 //for loop
-ara = [1,2,3,5,6]
-for (let i = 0; i <= ara.length; i++) {
-    const element = i;
-    console.log(element);
-}
+// ara = [1,2,3,5,6]
+// for (let i = 0; i <= ara.length; i++) {
+//     const element = i;
+//     console.log(element);
+// }
 
 //while
 let i = 0
