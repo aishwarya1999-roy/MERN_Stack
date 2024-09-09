@@ -47,7 +47,7 @@ console.log("************ Loops *****************")
 //     console.log(key); 
 // }
 
-const js_user = {
+const for_in_user = {
     "name" : "Aish",
     age : 25,
     City : "Kolkata",
