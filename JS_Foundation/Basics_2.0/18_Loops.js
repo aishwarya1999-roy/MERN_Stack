@@ -48,6 +48,8 @@ console.log("************ Loops *****************")
 //     console.log(key); 
 // }
 
+
+//for 
 // const for_in_user = {
 //     name : "Aish",
 //     age : 25,
