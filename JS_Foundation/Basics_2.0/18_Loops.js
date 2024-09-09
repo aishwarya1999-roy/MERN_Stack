@@ -30,7 +30,7 @@ console.log("************ Loops *****************")
 //     console.log(i);
 // }
 
-const greet = "Hello Aishwarya"
-for (const i of greet) {
-    console.log(i);
-}
+// const greet = "Hello Aishwarya"
+// for (const i of greet) {
+//     console.log(i);
+// }
