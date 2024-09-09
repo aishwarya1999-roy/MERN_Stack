@@ -72,5 +72,4 @@ console.log("************ Loops *****************")
 const coding = ['JS', "CPP", "Python", "ruby"]
 coding.forEach(element => {
     console.log(element);
-    
 });
