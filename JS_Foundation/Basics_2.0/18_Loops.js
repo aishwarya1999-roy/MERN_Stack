@@ -70,6 +70,6 @@ console.log("************ Loops *****************")
 //for each
 
 const coding = ['JS', "CPP", "Python", "ruby"]
-for (const i in programming) {
+for (const i in coding) {
     console.log(programming[i]);
 }
