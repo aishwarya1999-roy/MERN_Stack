@@ -95,6 +95,6 @@ const mycoding = [
 ]
 
 mycoding.forEach( (item) => {
-    console.log(it\);
+    console.log(item);
     
 })
