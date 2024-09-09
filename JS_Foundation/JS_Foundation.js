@@ -709,5 +709,5 @@ console.log(Array.of(val1, val2, val3));
 
 do {
     console.log(`I = ${i}`);
-//     i+=2
+    i+=2
 }
