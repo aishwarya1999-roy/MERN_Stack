@@ -23,4 +23,4 @@ do {
     j++
 }while (j<=10);
 
-for of
+//for of
