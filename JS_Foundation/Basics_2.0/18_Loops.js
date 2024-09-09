@@ -89,7 +89,7 @@ const mycoding = [
         extName : ".py"
     },
     {
-        name : "Python",
+        name : "C Prgramming",
         extName : ".py"
     }    
 ]
