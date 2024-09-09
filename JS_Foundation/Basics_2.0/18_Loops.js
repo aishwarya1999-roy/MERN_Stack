@@ -20,7 +20,7 @@ while (i<=10){
 let j = 13
 do {
     console.log(`I = ${j}`);
-    i++
-}while (i<=10);
+    j++
+}while (j<=10);
 
 for of
