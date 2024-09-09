@@ -75,6 +75,6 @@ coding.forEach(element => {
 });
 
 coding.forEach ( funtion (item) {
-    console.log();
+    console.log(va);
     
 })
