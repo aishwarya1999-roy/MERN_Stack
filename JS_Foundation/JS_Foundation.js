@@ -706,3 +706,5 @@ console.log(Array.of(val1, val2, val3));
 //     console.log(`I = ${i}`);
 //     i+=2
 // }
+
+do 
