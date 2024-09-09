@@ -76,6 +76,6 @@ coding.forEach(function(item) {
     console.log(item);
 });
 
-coding.forEach(
-    
+coding.forEach( item 
+
 )
