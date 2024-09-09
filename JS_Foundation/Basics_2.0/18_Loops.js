@@ -83,7 +83,7 @@ const mycoding = [
     {
         name : "javascript",
         extName : ".js"
-        no_of_pro
+        no_of_code : 
     },
     {
         name : "Python",
