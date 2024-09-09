@@ -39,5 +39,5 @@ console.log("************ Loops *****************")
 
 const newmap = new Map()
 newmap.set("IN", "India")
-newmap.set("IN", "India")
+newmap.set("*U", "India")
 newmap.set("IN", "India")
