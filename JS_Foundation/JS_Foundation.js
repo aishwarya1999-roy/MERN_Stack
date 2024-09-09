@@ -701,7 +701,7 @@ console.log(Array.of(val1, val2, val3));
 // }
 
 // while
-
+let i = 0
 while (2 == 2){
-    
+
 }
