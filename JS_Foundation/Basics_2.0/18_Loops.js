@@ -59,7 +59,7 @@ console.log("************ Loops *****************")
 //     console.log(`${i} =  ${for_in_user[i]}`);    
 // }
 
-const programming = ['JS', "CPP", "Python", "ruby"]
-for (const i in programming) {
-    console.log(programming[i]);
-}
+// const programming = ['JS', "CPP", "Python", "ruby"]
+// for (const i in programming) {
+//     console.log(programming[i]);
+// }
