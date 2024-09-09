@@ -43,6 +43,7 @@ console.log("************ Loops *****************")
 // newmap.set("FR", "France")
 // newmap.set("IN", "India") //will not added
 //console.log(newmap);
+
 // for (const [key] of newmap) {
 //     console.log(key); 
 // }
