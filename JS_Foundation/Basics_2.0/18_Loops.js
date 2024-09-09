@@ -98,5 +98,5 @@ const mycoding = [
 ]
 
 mycoding.forEach( (item) => {
-    console.log(item.n);  
+    console.log(item.no_of_code);  
 })
