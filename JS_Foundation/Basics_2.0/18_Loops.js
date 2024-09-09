@@ -41,5 +41,5 @@ const newmap = new Map() // map is unique
 newmap.set("IN", "India")
 newmap.set("US", "United States")
 newmap.set("FR", "France")
-newmap.set("IN", "India")
+newmap.set("IN", "India") //will not added
 console.log(newmap);
