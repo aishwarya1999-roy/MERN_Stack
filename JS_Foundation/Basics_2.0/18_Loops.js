@@ -26,4 +26,6 @@ do {
 //for of
 
 const arr = [1,2,3,5,6]
-for
+for (const element of object) {
+    
+}
