@@ -82,7 +82,7 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 const mycoding = [
     {
         name : "javascript",
-        extName : ".js"
+        extName : ".js",
         no_of_code : 5
     },
     {
