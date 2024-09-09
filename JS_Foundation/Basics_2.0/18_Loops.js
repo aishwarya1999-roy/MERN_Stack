@@ -17,7 +17,7 @@ while (i<=10){
 }
 
 //Do-while
-let i = 13
+let j = 13
 do {
     console.log(`I = ${i}`);
     i++
