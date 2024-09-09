@@ -10,11 +10,11 @@ console.log("************ Loops *****************")
 // }
 
 //while
-let i = 0
-while (i<=10){
-    console.log(`I = ${i}`);
-    i+=2
-}
+// let i = 0
+// while (i<=10){
+//     console.log(`I = ${i}`);
+//     i+=2
+// }
 
 //Do-while
 let j = 13
