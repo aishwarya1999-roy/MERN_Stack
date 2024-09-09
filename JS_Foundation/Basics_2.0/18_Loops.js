@@ -79,3 +79,8 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 //     console.log(item, index, arr);
 // });
 
+const mycoding = [
+    {
+        
+    }
+]
