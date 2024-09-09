@@ -704,5 +704,5 @@ console.log(Array.of(val1, val2, val3));
 let i = 0
 while (i<=5){
     console.log(`I = ${i}`);
-    i+=
+    i++
 }
