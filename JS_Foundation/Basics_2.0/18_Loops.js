@@ -38,4 +38,4 @@ console.log("************ Loops *****************")
 //Map
 
 const newmap = new Map()
-newmap.set("IN")
+newmap.set("IN", "India")
