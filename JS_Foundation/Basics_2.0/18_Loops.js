@@ -37,5 +37,5 @@ console.log("************ Loops *****************")
 
 //Map
 
-const newmap = new Map()
+const newmap = new map()
 map
