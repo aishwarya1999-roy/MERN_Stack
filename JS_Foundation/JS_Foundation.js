@@ -703,5 +703,5 @@ console.log(Array.of(val1, val2, val3));
 // while
 let i = 0
 while (i<=5){
-    console.log(element);
+    console.log(``);
 }
