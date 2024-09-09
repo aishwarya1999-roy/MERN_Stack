@@ -37,7 +37,7 @@ console.log("************ Loops *****************")
 
 //Map
 
-const newmap = new Map()
+const newmap = new Map() // map is unique
 newmap.set("IN", "India")
 newmap.set("US", "United States")
 newmap.set("FR", "France")
