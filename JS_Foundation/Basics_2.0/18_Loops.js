@@ -42,4 +42,4 @@ newmap.set("IN", "India")
 newmap.set("US", "United States")
 newmap.set("FR", "France")
 
-console.log(ne);
+console.log(newmap);
