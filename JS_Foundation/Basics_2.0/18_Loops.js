@@ -19,7 +19,7 @@ while (i<=10){
 //Do-while
 let j = 13
 do {
-    console.log(`I = ${i}`);
+    console.log(`I = ${j}`);
     i++
 }while (i<=10);
 
