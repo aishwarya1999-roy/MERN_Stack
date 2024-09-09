@@ -16,7 +16,7 @@ while (i<=10){
     i+=2
 }
 
-Do-while
+//Do-while
 let i = 13
 do {
     console.log(`I = ${i}`);
