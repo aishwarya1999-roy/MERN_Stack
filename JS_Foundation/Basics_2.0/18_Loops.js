@@ -93,3 +93,5 @@ const mycoding = [
         extName : ".cpp"
     }    
 ]
+
+mycoding.forEach
