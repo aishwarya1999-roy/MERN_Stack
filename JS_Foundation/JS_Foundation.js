@@ -697,5 +697,4 @@ console.log(Array.of(val1, val2, val3));
 ara = [1,2,3,5,6]
 for (let i = 0; i < ara.length; i++) {
     const element = array[i];
-    
 }
