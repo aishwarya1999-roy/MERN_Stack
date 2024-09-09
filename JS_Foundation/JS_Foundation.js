@@ -695,8 +695,8 @@ console.log(Array.of(val1, val2, val3));
 
 // for loop
 ara = [1,2,3,5,6]
-for (let in = 0; in <= ara.length; in++) {
-    const element = in;
+for (let index = 0; index <= ara.length; index++) {
+    const element = index;
     console.log(element);
 }
 
