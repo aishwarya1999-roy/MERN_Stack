@@ -94,4 +94,6 @@ const mycoding = [
     }    
 ]
 
-mycoding.forEach( )
+mycoding.forEach( () => {
+    
+})
