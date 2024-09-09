@@ -70,9 +70,7 @@ console.log("************ Loops *****************")
 //for each
 
 const coding = ['JS', "CPP", "Python", "ruby"]
-// coding.forEach(element => {
-//     console.log(element);
-// });
+
 
 coding.forEach(function(item) {
     console.log(item);
