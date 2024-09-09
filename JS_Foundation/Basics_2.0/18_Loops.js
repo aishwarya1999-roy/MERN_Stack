@@ -59,4 +59,4 @@ for (const i in for_in_user) {
     console.log(`${i} =  ${for_in_user[i]}`);    
 }
 
-const programming = ['JS']
+const programming = ['JS', "CPP",]
