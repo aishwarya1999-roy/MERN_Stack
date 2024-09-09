@@ -54,6 +54,6 @@ const for_in_user = {
     myst : "MyKey1"
 }
 
-for (const key in for_in_user) {
-    console.log(key);    
+for (const i in for_in_user) {
+    console.log(i);    
 }
