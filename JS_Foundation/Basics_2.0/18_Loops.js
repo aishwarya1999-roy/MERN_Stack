@@ -30,7 +30,7 @@ for (const i of arr) {
     console.log(i);
 }
 
-const greet = [1,2,3,5,6]
+const greet = "Hello Aishwarya"
 for (const i of arr) {
     console.log(i);
 }
