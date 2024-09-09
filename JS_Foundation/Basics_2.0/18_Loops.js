@@ -78,4 +78,4 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 
 coding.forEach( item => {
     console.log(item);
-})
+});
