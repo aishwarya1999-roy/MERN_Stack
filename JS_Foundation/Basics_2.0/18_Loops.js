@@ -51,6 +51,5 @@ const for_in_user = {
     name : "Aish",
     age : 25,
     City : "Kolkata",
-    myst : "MyKey1",
-    isloggin : false
+    myst : "MyKey1"
 }
