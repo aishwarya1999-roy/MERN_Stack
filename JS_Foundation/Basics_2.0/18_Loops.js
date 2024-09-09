@@ -48,15 +48,15 @@ console.log("************ Loops *****************")
 //     console.log(key); 
 // }
 
-const for_in_user = {
-    name : "Aish",
-    age : 25,
-    City : "Kolkata",
-    myst : "MyKey1"
-}
+// const for_in_user = {
+//     name : "Aish",
+//     age : 25,
+//     City : "Kolkata",
+//     myst : "MyKey1"
+// }
 
-for (const i in for_in_user) {
-    console.log(`${i} =  ${for_in_user[i]}`);    
-}
+// for (const i in for_in_user) {
+//     console.log(`${i} =  ${for_in_user[i]}`);    
+// }
 
 const programming = ['JS', "CPP", "Python", "ruby"]
