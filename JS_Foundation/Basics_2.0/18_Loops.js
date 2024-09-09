@@ -56,5 +56,5 @@ const for_in_user = {
 }
 
 for (const i in for_in_user) {
-    console.log(`${i}${for_in_user[i]}`);    
+    console.log(`${i} is for ${for_in_user[i]}`);    
 }
