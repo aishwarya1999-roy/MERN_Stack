@@ -70,4 +70,6 @@ console.log("************ Loops *****************")
 //for each
 
 const coding = ['JS', "CPP", "Python", "ruby"]
-fore
+array.forEach(element => {
+    
+});
