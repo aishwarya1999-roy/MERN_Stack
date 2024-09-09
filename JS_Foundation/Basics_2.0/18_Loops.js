@@ -54,4 +54,9 @@ const for_in_user = {
     myst : "MyKey1"
 }
 
-for
+for (const key in object) {
+    if (Object.prototype.hasOwnProperty.call(object, key)) {
+        const element = object[key];
+        
+    }
+}
