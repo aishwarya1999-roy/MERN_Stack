@@ -707,7 +707,7 @@ console.log(Array.of(val1, val2, val3));
 //     i+=2
 // }
 
-// Do while
+// Do-while
 let i = 13
 do {
     console.log(`I = ${i}`);
