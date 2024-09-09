@@ -698,4 +698,4 @@ ara = [1,2,3,5,6]
 for (let i = 0; i < ara.length; i++) {
     const element = ara[i];
 }
-console.log(element);
+
