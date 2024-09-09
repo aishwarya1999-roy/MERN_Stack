@@ -689,29 +689,3 @@ console.log(Array.of(val1, val2, val3));
 // const teaprice = 100
 // teaprice<=80 ? console.log("Less than 80") : console.log("Grater than 80")
 
-
-// console.log("************ Loops *****************")
-
-
-// for loop
-// ara = [1,2,3,5,6]
-// for (let i = 0; i <= ara.length; i++) {
-//     const element = i;
-//     console.log(element);
-// }
-
-// while
-// let i = 0
-// while (i<=10){
-//     console.log(`I = ${i}`);
-//     i+=2
-// }
-
-// Do-while
-// let i = 13
-// do {
-//     console.log(`I = ${i}`);
-//     i++
-// }while (i<=10);
-
-// for of
