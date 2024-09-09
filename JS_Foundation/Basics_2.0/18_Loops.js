@@ -88,5 +88,9 @@ const mycoding = [
         name : "Python",
         extName : ".py"
     },
+    {
+        name : "Python",
+        extName : ".py"
+    },
     
 ]
