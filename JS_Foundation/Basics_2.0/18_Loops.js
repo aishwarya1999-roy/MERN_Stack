@@ -46,3 +46,11 @@ console.log("************ Loops *****************")
 // for (const [key] of newmap) {
 //     console.log(key); 
 // }
+
+// const js_user = {
+//     "name" : "Aish",
+//     age : 25,
+//     City : "Kolkata",
+//     myst : "MyKey1",
+//     isloggin : false
+// }
