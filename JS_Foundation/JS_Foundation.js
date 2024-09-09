@@ -707,4 +707,6 @@ console.log(Array.of(val1, val2, val3));
 //     i+=2
 // }
 
-do 
+do {
+    
+}
