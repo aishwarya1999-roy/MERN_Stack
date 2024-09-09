@@ -708,8 +708,8 @@ console.log(Array.of(val1, val2, val3));
 // }
 
 // Do-while
-let i = 13
-do {
-    console.log(`I = ${i}`);
-    i++
-}while (i<=10);
+// let i = 13
+// do {
+//     console.log(`I = ${i}`);
+//     i++
+// }while (i<=10);
