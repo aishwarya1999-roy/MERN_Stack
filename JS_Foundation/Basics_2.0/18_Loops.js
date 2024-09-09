@@ -60,6 +60,6 @@ console.log("************ Loops *****************")
 // }
 
 const programming = ['JS', "CPP", "Python", "ruby"]
-for (const i in object) {
+for (const i in programming) {
     console.log(i);
 }
