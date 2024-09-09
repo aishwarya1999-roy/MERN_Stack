@@ -75,5 +75,7 @@ coding.forEach(element => {
 });
 
 coding.forEach(
-    funtion (item) {}
+    funtion (item) {
+        
+    }
 )
