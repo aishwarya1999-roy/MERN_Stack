@@ -85,7 +85,7 @@ const mycoding = [
         namefile : "JS"
     },
     {
-        name : "javascript",
+        name : "Python",
         namefile : "JS"
     }
 ]
