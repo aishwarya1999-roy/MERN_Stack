@@ -43,6 +43,6 @@ newmap.set("US", "United States")
 newmap.set("FR", "France")
 newmap.set("IN", "India") //will not added
 console.log(newmap);
-for (const element of object) {
+for (const key of object) {
     
 }
