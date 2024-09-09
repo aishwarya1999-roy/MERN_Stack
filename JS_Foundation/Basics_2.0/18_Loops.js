@@ -44,5 +44,6 @@ newmap.set("FR", "France")
 newmap.set("IN", "India") //will not added
 console.log(newmap);
 for (const key of newmap) {
-    log
+    console.log();
+    
 }
