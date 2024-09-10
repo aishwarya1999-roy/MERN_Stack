@@ -103,4 +103,4 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 
 const nums = [1,2,3,4,5]
 const new_nums = nums.filter( (num) => num)
-console.log();
+console.log(new_nums);
