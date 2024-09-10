@@ -102,5 +102,5 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 // })
 
 const nums = [1,2,3,4,5]
-const new_nums = nums.filter( (num) => num)
+const new_nums = nums.filter( (num) => num>4)
 console.log(new_nums);
