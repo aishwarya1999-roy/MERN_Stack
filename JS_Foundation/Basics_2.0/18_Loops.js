@@ -79,24 +79,24 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 //     console.log(item, index, arr);
 // });
 
-const mycoding = [
-    {
-        name : "javascript",
-        extName : ".js",
-        no_of_code : 5
-    },
-    {
-        name : "Python",
-        extName : ".py",
-        no_of_code : 10
-    },
-    {
-        name : "C Prgramming",
-        extName : ".cpp",
-        no_of_code : 2
-    }    
-]
+// const mycoding = [
+//     {
+//         name : "javascript",
+//         extName : ".js",
+//         no_of_code : 5
+//     },
+//     {
+//         name : "Python",
+//         extName : ".py",
+//         no_of_code : 10
+//     },
+//     {
+//         name : "C Prgramming",
+//         extName : ".cpp",
+//         no_of_code : 2
+//     }    
+// ]
 
-mycoding.forEach( (item) => {
-    console.log(item);  
-})
+// mycoding.forEach( (item) => {
+//     console.log(item);  
+// })
