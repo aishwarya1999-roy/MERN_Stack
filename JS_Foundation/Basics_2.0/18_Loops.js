@@ -101,4 +101,4 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 //     console.log(item);  
 // })
 
-const num
+const nums
