@@ -23,7 +23,7 @@ do {
     j++
 }while (j<=10);
 
-for of
+//for of
 
 const arr = [1,2,3,5,6]
 for (const i of arr) {
@@ -35,7 +35,7 @@ for (const i of greet) {
     console.log(i);
 }
 
-Map
+//Map
 
 const newmap = new Map() // map is unique
 newmap.set("IN", "India")
