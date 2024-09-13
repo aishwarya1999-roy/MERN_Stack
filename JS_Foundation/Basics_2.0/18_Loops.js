@@ -9,7 +9,7 @@ for (let i = 0; i <= ara.length; i++) {
     console.log(element);
 }
 
-while
+//while
 let i = 0
 while (i<=10){
     console.log(`I = ${i}`);
