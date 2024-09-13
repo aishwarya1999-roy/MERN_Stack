@@ -49,7 +49,7 @@ for (const [key] of newmap) {
 }
 
 
-for in
+//for in
 
 const for_in_user = {
     name : "Aish",
@@ -67,7 +67,7 @@ for (const i in programming) {
     console.log(programming[i]);
 }
 
-for each
+//for each
 
 const coding = ['JS', "CPP", "Python", "ruby"]
 
