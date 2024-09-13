@@ -101,6 +101,3 @@ const coding = ['JS', "CPP", "Python", "ruby"]
 //     console.log(item);  
 // })
 
-const nums = [1,2,3,4,5]
-const new_nums = nums.filter( (num) => num>3)
-console.log(new_nums);
