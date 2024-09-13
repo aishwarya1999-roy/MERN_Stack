@@ -800,7 +800,7 @@ console.log(Array.of(val1, val2, val3));
 // console.log(new_nums);
 
 
-//map
+// //map
 
 // const new_nums_map = nums.map((num) => (num+10))
 // console.log(new_nums_map);
