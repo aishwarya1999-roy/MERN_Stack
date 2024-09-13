@@ -7,18 +7,18 @@ console.log(new_nums);
 
 //map
 
-// const new_nums_map = nums.map((num) => (num+10))
-// console.log(new_nums_map);
+const new_nums_map = nums.map((num) => (num+10))
+console.log(new_nums_map);
 
 
-//reduce
+reduce
 
-// const nums_reduce = nums.reduce(function(acc,cur){
-//     console.log(`acc : ${acc}, curent value ${cur}`);
+const nums_reduce = nums.reduce(function(acc,cur){
+    console.log(`acc : ${acc}, curent value ${cur}`);
     
-//     return acc+cur
-// }, 0)
-// console.log(nums_reduce);
+    return acc+cur
+}, 0)
+console.log(nums_reduce);
 
-// const nums_reduce_arrow = nums.reduce((acc,cur) => (acc+cur), 0)
-// console.log(nums_reduce_arrow);
+const nums_reduce_arrow = nums.reduce((acc,cur) => (acc+cur), 0)
+console.log(nums_reduce_arrow);
