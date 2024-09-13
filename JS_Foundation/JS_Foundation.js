@@ -810,7 +810,6 @@ console.log(Array.of(val1, val2, val3));
 
 // const nums_reduce = nums.reduce(function(acc,cur){
 //     console.log(`acc : ${acc}, curent value ${cur}`);
-    
 //     return acc+cur
 // }, 0)
 // console.log(nums_reduce);
