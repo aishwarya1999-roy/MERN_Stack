@@ -11,7 +11,7 @@ const new_nums_map = nums.map((num) => (num+10))
 console.log(new_nums_map);
 
 
-reduce
+//reduce
 
 const nums_reduce = nums.reduce(function(acc,cur){
     console.log(`acc : ${acc}, curent value ${cur}`);
