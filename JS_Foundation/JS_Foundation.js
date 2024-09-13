@@ -796,6 +796,8 @@ console.log(Array.of(val1, val2, val3));
 
 
 //console.log("************ Filter_Map_reduce *****************")
+
+
 //const nums = [1,4,5,2,8]
 // //filter
 
