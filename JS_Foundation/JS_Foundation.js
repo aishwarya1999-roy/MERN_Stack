@@ -794,7 +794,7 @@ console.log(Array.of(val1, val2, val3));
 // })
 
 //const nums = [1,4,5,2,8]
-//filter
+// //filter
 
 // const new_nums = nums.filter( (num) => num>3)
 // console.log(new_nums);
