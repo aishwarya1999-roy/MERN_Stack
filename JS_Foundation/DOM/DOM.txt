@@ -1,0 +1,3 @@
+select_all.forEach(function (h) {
+    h.style.backgroundColor = 'cyan'
+})
