@@ -1,4 +1,4 @@
-const select_one = document.querySelector('h1') 
+const select_one = document.querySelector('h1') //can select only thr first 
 
 const select_all = document.querySelectorAll('h1') //can change for each element by index
 select_all.forEach(function (h) {
