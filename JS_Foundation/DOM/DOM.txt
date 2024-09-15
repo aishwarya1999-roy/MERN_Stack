@@ -12,6 +12,6 @@ const htmlcollectionlist = document.getElementsByClassName('list-items')
 
 const converted = Array.from(htmlcollectionlist)
 converted.forEach(function (l) {
-    l.style.backgroundColor = 'cyan'
+    l.style.backgroundColor = 'orange'
 })
 
