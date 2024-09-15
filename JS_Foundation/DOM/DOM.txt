@@ -10,4 +10,4 @@ select_all.forEach(function (h) {
 
 const htmlcollectionlist = document.getElementsByClassName('list-items')
 
-const Array.from(htmlcollectionlist)
+const converted = Array.from(htmlcollectionlist)
