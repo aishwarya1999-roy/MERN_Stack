@@ -1,6 +1,6 @@
 
 
-const select_all = document.querySelectorAll('h1') //can change for 
+const select_all = document.querySelectorAll('h1') //can change for each element by 
 select_all.forEach(function (h) {
     h.style.backgroundColor = 'cyan'
 })
