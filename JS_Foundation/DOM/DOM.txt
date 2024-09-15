@@ -3,7 +3,10 @@ const select_one = document.querySelector('h1') //can select only thr first
 
 // nodelist
 const select_all = document.querySelectorAll('h1') //can change for each element by index
-select_all.forEachconverted
+select_all.forEach(function (h) {
+    h.style.backgroundColor = 'cyan'
+})
+
 
 const htmlcollectionlist = document.getElementsByClassName('list-items')
 
