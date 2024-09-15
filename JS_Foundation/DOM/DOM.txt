@@ -9,3 +9,4 @@ select_all.forEach(function (h) {
 
 
 document.getElementsByClassName('list-items')
+const htmlcollectionlist = document.getElementsByClassName('list-items')
