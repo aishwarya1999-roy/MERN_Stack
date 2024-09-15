@@ -1,6 +1,6 @@
 
 
-
+const select_all = document.querySelectorAll('h1')
 select_all.forEach(function (h) {
     h.style.backgroundColor = 'cyan'
 })
