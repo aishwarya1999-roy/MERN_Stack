@@ -7,3 +7,5 @@ select_all.forEach(function (h) {
     h.style.backgroundColor = 'cyan'
 })
 
+
+document.getElementsByClassName('list-items')
