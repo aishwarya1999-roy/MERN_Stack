@@ -1,0 +1,44 @@
+<!-- document object model -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>DOM</title>
+
+    <style>
+        .bg-black{
+            background-color: #0B0E14;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body class="bg-black">
+    <div>
+        <h1 id="title" class="heading">DOM Learning - Aishwarya </h1>
+        <h1 id="title" class="heading">DOM Learning - Aishwarya 2</h1>
+        <h1 id="title" class="heading">DOM Learning - Aishwarya 3</h1>
+        <p> Hey there, We are going to learn javascript today   </p>
+        <ul>
+            <li class="list-items">One</li>
+            <li class="list-items">two</li>
+            <li class="list-items">Three</li>
+            <li class="list-items">Four</li>
+        </ul>
+    </div>
+
+    <div class="parent">
+        <div class="days">Monday</div>
+        <div class="days">Tuesday</div>
+        <div class="days">Wednesday</div>
+        <div class="days">Thursday</div>
+
+    </div>
+</body>
+<script>
+   const parent = document.querySelector('parent')
+   console.log(parent);
+</script>
+</html>
